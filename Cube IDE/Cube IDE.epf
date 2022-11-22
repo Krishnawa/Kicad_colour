@@ -1,0 +1,380 @@
+#Tue Nov 22 20:05:29 IST 2022
+\!/=
+/configuration/com.st.stm32cube.ide.documentation/2.0.301=true
+/configuration/org.eclipse.core.net/org.eclipse.core.net.hasMigrated=true
+/configuration/org.eclipse.ui.ide/MAX_RECENT_WORKSPACES=10
+/configuration/org.eclipse.ui.ide/RECENT_WORKSPACES=/home/krishnawa/RnD/My_workspace/host\n/home/krishnawa/RnD/instructor/host\n/home/krishnawa/RnD/My_workspace/target\n/home/krishnawa/STM32CubeIDE/workspace_1.10.1
+/configuration/org.eclipse.ui.ide/RECENT_WORKSPACES_PROTOCOL=3
+/configuration/org.eclipse.ui.ide/SHOW_RECENT_WORKSPACES=true
+/configuration/org.eclipse.ui.ide/SHOW_WORKSPACE_SELECTION_DIALOG=true
+/instance/com.st.stm32cube.common.preferences/DeviceConfigurationTool.AskToSwitchToCubeMxPerspective=false
+/instance/com.st.stm32cube.common.preferences/DeviceConfigurationTool.SwitchToCubeMxPerspective=true
+/instance/com.st.stm32cube.ide.mcu.ide.oss/project_presentation/setHierarchicalMode=false
+/instance/org.eclipse.cdt.codan.core/com.st.stm32cube.ide.mcu.ide.oss.source.checker.libnano.problem.params={launchModes\=>{RUN_ON_FULL_BUILD\=>true,RUN_ON_INC_BUILD\=>true,RUN_ON_FILE_OPEN\=>false,RUN_ON_FILE_SAVE\=>false,RUN_AS_YOU_TYPE\=>true,RUN_ON_DEMAND\=>true},suppression_comment\=>"@suppress(\\"Float formatting support\\")"}
+/instance/org.eclipse.cdt.codan.core/org.eclipse.cdt.codan.checkers.errnoreturn.params={launchModes\=>{RUN_ON_FULL_BUILD\=>true,RUN_ON_INC_BUILD\=>true,RUN_ON_FILE_OPEN\=>false,RUN_ON_FILE_SAVE\=>false,RUN_AS_YOU_TYPE\=>true,RUN_ON_DEMAND\=>true},suppression_comment\=>"@suppress(\\"No return\\")",implicit\=>false}
+/instance/org.eclipse.cdt.codan.core/org.eclipse.cdt.codan.checkers.errreturnvalue.params={launchModes\=>{RUN_ON_FULL_BUILD\=>true,RUN_ON_INC_BUILD\=>true,RUN_ON_FILE_OPEN\=>false,RUN_ON_FILE_SAVE\=>false,RUN_AS_YOU_TYPE\=>true,RUN_ON_DEMAND\=>true},suppression_comment\=>"@suppress(\\"Unused return value\\")"}
+/instance/org.eclipse.cdt.codan.core/org.eclipse.cdt.codan.checkers.localvarreturn=-Warning
+/instance/org.eclipse.cdt.codan.core/org.eclipse.cdt.codan.checkers.localvarreturn.params={launchModes\=>{RUN_ON_FULL_BUILD\=>true,RUN_ON_INC_BUILD\=>true,RUN_ON_FILE_OPEN\=>false,RUN_ON_FILE_SAVE\=>false,RUN_AS_YOU_TYPE\=>true,RUN_ON_DEMAND\=>true},suppression_comment\=>"@suppress(\\"Returning the address of a local variable\\")"}
+/instance/org.eclipse.cdt.codan.core/org.eclipse.cdt.codan.checkers.nocommentinside.params={launchModes\=>{RUN_ON_FULL_BUILD\=>true,RUN_ON_INC_BUILD\=>true,RUN_ON_FILE_OPEN\=>false,RUN_ON_FILE_SAVE\=>false,RUN_AS_YOU_TYPE\=>true,RUN_ON_DEMAND\=>true},suppression_comment\=>"@suppress(\\"Nesting comments\\")"}
+/instance/org.eclipse.cdt.codan.core/org.eclipse.cdt.codan.checkers.nolinecomment.params={launchModes\=>{RUN_ON_FULL_BUILD\=>true,RUN_ON_INC_BUILD\=>true,RUN_ON_FILE_OPEN\=>false,RUN_ON_FILE_SAVE\=>false,RUN_AS_YOU_TYPE\=>true,RUN_ON_DEMAND\=>true},suppression_comment\=>"@suppress(\\"Line comments\\")"}
+/instance/org.eclipse.cdt.codan.core/org.eclipse.cdt.codan.checkers.noreturn.params={launchModes\=>{RUN_ON_FULL_BUILD\=>true,RUN_ON_INC_BUILD\=>true,RUN_ON_FILE_OPEN\=>false,RUN_ON_FILE_SAVE\=>false,RUN_AS_YOU_TYPE\=>true,RUN_ON_DEMAND\=>true},suppression_comment\=>"@suppress(\\"No return value\\")",implicit\=>false}
+/instance/org.eclipse.cdt.codan.core/org.eclipse.cdt.codan.internal.checkers.AbstractClassCreation.params={launchModes\=>{RUN_ON_FULL_BUILD\=>true,RUN_ON_INC_BUILD\=>true,RUN_ON_FILE_OPEN\=>false,RUN_ON_FILE_SAVE\=>false,RUN_AS_YOU_TYPE\=>true,RUN_ON_DEMAND\=>true},suppression_comment\=>"@suppress(\\"Abstract class cannot be instantiated\\")"}
+/instance/org.eclipse.cdt.codan.core/org.eclipse.cdt.codan.internal.checkers.AmbiguousProblem.params={launchModes\=>{RUN_ON_FULL_BUILD\=>true,RUN_ON_INC_BUILD\=>true,RUN_ON_FILE_OPEN\=>false,RUN_ON_FILE_SAVE\=>false,RUN_AS_YOU_TYPE\=>true,RUN_ON_DEMAND\=>true},suppression_comment\=>"@suppress(\\"Ambiguous problem\\")"}
+/instance/org.eclipse.cdt.codan.core/org.eclipse.cdt.codan.internal.checkers.AssignmentInConditionProblem.params={launchModes\=>{RUN_ON_FULL_BUILD\=>true,RUN_ON_INC_BUILD\=>true,RUN_ON_FILE_OPEN\=>false,RUN_ON_FILE_SAVE\=>false,RUN_AS_YOU_TYPE\=>true,RUN_ON_DEMAND\=>true},suppression_comment\=>"@suppress(\\"Assignment in condition\\")"}
+/instance/org.eclipse.cdt.codan.core/org.eclipse.cdt.codan.internal.checkers.AssignmentToItselfProblem.params={launchModes\=>{RUN_ON_FULL_BUILD\=>true,RUN_ON_INC_BUILD\=>true,RUN_ON_FILE_OPEN\=>false,RUN_ON_FILE_SAVE\=>false,RUN_AS_YOU_TYPE\=>true,RUN_ON_DEMAND\=>true},suppression_comment\=>"@suppress(\\"Assignment to itself\\")"}
+/instance/org.eclipse.cdt.codan.core/org.eclipse.cdt.codan.internal.checkers.BlacklistProblem=-Warning
+/instance/org.eclipse.cdt.codan.core/org.eclipse.cdt.codan.internal.checkers.BlacklistProblem.params={launchModes\=>{RUN_ON_FULL_BUILD\=>true,RUN_ON_INC_BUILD\=>true,RUN_ON_FILE_OPEN\=>false,RUN_ON_FILE_SAVE\=>false,RUN_AS_YOU_TYPE\=>true,RUN_ON_DEMAND\=>true},suppression_comment\=>"@suppress(\\"Function or method is blacklisted\\")",blacklist\=>()}
+/instance/org.eclipse.cdt.codan.core/org.eclipse.cdt.codan.internal.checkers.CStyleCastProblem=-Warning
+/instance/org.eclipse.cdt.codan.core/org.eclipse.cdt.codan.internal.checkers.CStyleCastProblem.params={launchModes\=>{RUN_ON_FULL_BUILD\=>true,RUN_ON_INC_BUILD\=>true,RUN_ON_FILE_OPEN\=>false,RUN_ON_FILE_SAVE\=>false,RUN_AS_YOU_TYPE\=>true,RUN_ON_DEMAND\=>true},suppression_comment\=>"@suppress(\\"C-Style cast instead of C++ cast\\")",checkMacro\=>true}
+/instance/org.eclipse.cdt.codan.core/org.eclipse.cdt.codan.internal.checkers.CaseBreakProblem.params={launchModes\=>{RUN_ON_FULL_BUILD\=>true,RUN_ON_INC_BUILD\=>true,RUN_ON_FILE_OPEN\=>false,RUN_ON_FILE_SAVE\=>false,RUN_AS_YOU_TYPE\=>true,RUN_ON_DEMAND\=>true},suppression_comment\=>"@suppress(\\"No break at end of case\\")",no_break_comment\=>"no break",last_case_param\=>false,empty_case_param\=>false,enable_fallthrough_quickfix_param\=>false}
+/instance/org.eclipse.cdt.codan.core/org.eclipse.cdt.codan.internal.checkers.CatchByReference.params={launchModes\=>{RUN_ON_FULL_BUILD\=>true,RUN_ON_INC_BUILD\=>true,RUN_ON_FILE_OPEN\=>false,RUN_ON_FILE_SAVE\=>false,RUN_AS_YOU_TYPE\=>true,RUN_ON_DEMAND\=>true},suppression_comment\=>"@suppress(\\"Catching by reference is recommended\\")",unknown\=>false,exceptions\=>()}
+/instance/org.eclipse.cdt.codan.core/org.eclipse.cdt.codan.internal.checkers.CircularReferenceProblem.params={launchModes\=>{RUN_ON_FULL_BUILD\=>true,RUN_ON_INC_BUILD\=>true,RUN_ON_FILE_OPEN\=>false,RUN_ON_FILE_SAVE\=>false,RUN_AS_YOU_TYPE\=>true,RUN_ON_DEMAND\=>true},suppression_comment\=>"@suppress(\\"Circular inheritance\\")"}
+/instance/org.eclipse.cdt.codan.core/org.eclipse.cdt.codan.internal.checkers.ClassMembersInitialization.params={launchModes\=>{RUN_ON_FULL_BUILD\=>true,RUN_ON_INC_BUILD\=>true,RUN_ON_FILE_OPEN\=>false,RUN_ON_FILE_SAVE\=>false,RUN_AS_YOU_TYPE\=>true,RUN_ON_DEMAND\=>true},suppression_comment\=>"@suppress(\\"Class members should be properly initialized\\")",skip\=>true}
+/instance/org.eclipse.cdt.codan.core/org.eclipse.cdt.codan.internal.checkers.CopyrightProblem=-Warning
+/instance/org.eclipse.cdt.codan.core/org.eclipse.cdt.codan.internal.checkers.CopyrightProblem.params={launchModes\=>{RUN_ON_FULL_BUILD\=>true,RUN_ON_INC_BUILD\=>true,RUN_ON_FILE_OPEN\=>false,RUN_ON_FILE_SAVE\=>false,RUN_AS_YOU_TYPE\=>true,RUN_ON_DEMAND\=>true},suppression_comment\=>"@suppress(\\"Lack of copyright information\\")",regex\=>".*Copyright.*"}
+/instance/org.eclipse.cdt.codan.core/org.eclipse.cdt.codan.internal.checkers.DecltypeAutoProblem.params={launchModes\=>{RUN_ON_FULL_BUILD\=>true,RUN_ON_INC_BUILD\=>true,RUN_ON_FILE_OPEN\=>false,RUN_ON_FILE_SAVE\=>false,RUN_AS_YOU_TYPE\=>true,RUN_ON_DEMAND\=>true},suppression_comment\=>"@suppress(\\"Invalid 'decltype(auto)' specifier\\")"}
+/instance/org.eclipse.cdt.codan.core/org.eclipse.cdt.codan.internal.checkers.FieldResolutionProblem.params={launchModes\=>{RUN_ON_FULL_BUILD\=>true,RUN_ON_INC_BUILD\=>true,RUN_ON_FILE_OPEN\=>false,RUN_ON_FILE_SAVE\=>false,RUN_AS_YOU_TYPE\=>true,RUN_ON_DEMAND\=>true},suppression_comment\=>"@suppress(\\"Field cannot be resolved\\")"}
+/instance/org.eclipse.cdt.codan.core/org.eclipse.cdt.codan.internal.checkers.FloatCompareProblem=-Warning
+/instance/org.eclipse.cdt.codan.core/org.eclipse.cdt.codan.internal.checkers.FloatCompareProblem.params={launchModes\=>{RUN_ON_FULL_BUILD\=>true,RUN_ON_INC_BUILD\=>true,RUN_ON_FILE_OPEN\=>false,RUN_ON_FILE_SAVE\=>false,RUN_AS_YOU_TYPE\=>true,RUN_ON_DEMAND\=>true},suppression_comment\=>"@suppress(\\"Direct float comparison\\")"}
+/instance/org.eclipse.cdt.codan.core/org.eclipse.cdt.codan.internal.checkers.FunctionResolutionProblem.params={launchModes\=>{RUN_ON_FULL_BUILD\=>true,RUN_ON_INC_BUILD\=>true,RUN_ON_FILE_OPEN\=>false,RUN_ON_FILE_SAVE\=>false,RUN_AS_YOU_TYPE\=>true,RUN_ON_DEMAND\=>true},suppression_comment\=>"@suppress(\\"Function cannot be resolved\\")"}
+/instance/org.eclipse.cdt.codan.core/org.eclipse.cdt.codan.internal.checkers.GotoStatementProblem=-Warning
+/instance/org.eclipse.cdt.codan.core/org.eclipse.cdt.codan.internal.checkers.GotoStatementProblem.params={launchModes\=>{RUN_ON_FULL_BUILD\=>true,RUN_ON_INC_BUILD\=>true,RUN_ON_FILE_OPEN\=>false,RUN_ON_FILE_SAVE\=>false,RUN_AS_YOU_TYPE\=>true,RUN_ON_DEMAND\=>true},suppression_comment\=>"@suppress(\\"Goto statement used\\")"}
+/instance/org.eclipse.cdt.codan.core/org.eclipse.cdt.codan.internal.checkers.InvalidArguments.params={launchModes\=>{RUN_ON_FULL_BUILD\=>true,RUN_ON_INC_BUILD\=>true,RUN_ON_FILE_OPEN\=>false,RUN_ON_FILE_SAVE\=>false,RUN_AS_YOU_TYPE\=>true,RUN_ON_DEMAND\=>true},suppression_comment\=>"@suppress(\\"Invalid arguments\\")"}
+/instance/org.eclipse.cdt.codan.core/org.eclipse.cdt.codan.internal.checkers.InvalidTemplateArgumentsProblem.params={launchModes\=>{RUN_ON_FULL_BUILD\=>true,RUN_ON_INC_BUILD\=>true,RUN_ON_FILE_OPEN\=>false,RUN_ON_FILE_SAVE\=>false,RUN_AS_YOU_TYPE\=>true,RUN_ON_DEMAND\=>true},suppression_comment\=>"@suppress(\\"Invalid template argument\\")"}
+/instance/org.eclipse.cdt.codan.core/org.eclipse.cdt.codan.internal.checkers.LabelStatementNotFoundProblem.params={launchModes\=>{RUN_ON_FULL_BUILD\=>true,RUN_ON_INC_BUILD\=>true,RUN_ON_FILE_OPEN\=>false,RUN_ON_FILE_SAVE\=>false,RUN_AS_YOU_TYPE\=>true,RUN_ON_DEMAND\=>true},suppression_comment\=>"@suppress(\\"Label statement not found\\")"}
+/instance/org.eclipse.cdt.codan.core/org.eclipse.cdt.codan.internal.checkers.MagicNumberProblem=-Warning
+/instance/org.eclipse.cdt.codan.core/org.eclipse.cdt.codan.internal.checkers.MagicNumberProblem.params={launchModes\=>{RUN_ON_FULL_BUILD\=>true,RUN_ON_INC_BUILD\=>true,RUN_ON_FILE_OPEN\=>false,RUN_ON_FILE_SAVE\=>false,RUN_AS_YOU_TYPE\=>true,RUN_ON_DEMAND\=>true},suppression_comment\=>"@suppress(\\"Avoid magic numbers\\")",checkArray\=>true,checkOperatorParen\=>true,exceptions\=>(1,0,-1,2,1.0,0.0,-1.0)}
+/instance/org.eclipse.cdt.codan.core/org.eclipse.cdt.codan.internal.checkers.MemberDeclarationNotFoundProblem.params={launchModes\=>{RUN_ON_FULL_BUILD\=>true,RUN_ON_INC_BUILD\=>true,RUN_ON_FILE_OPEN\=>false,RUN_ON_FILE_SAVE\=>false,RUN_AS_YOU_TYPE\=>true,RUN_ON_DEMAND\=>true},suppression_comment\=>"@suppress(\\"Member declaration not found\\")"}
+/instance/org.eclipse.cdt.codan.core/org.eclipse.cdt.codan.internal.checkers.MethodResolutionProblem.params={launchModes\=>{RUN_ON_FULL_BUILD\=>true,RUN_ON_INC_BUILD\=>true,RUN_ON_FILE_OPEN\=>false,RUN_ON_FILE_SAVE\=>false,RUN_AS_YOU_TYPE\=>true,RUN_ON_DEMAND\=>true},suppression_comment\=>"@suppress(\\"Method cannot be resolved\\")"}
+/instance/org.eclipse.cdt.codan.core/org.eclipse.cdt.codan.internal.checkers.MissCaseProblem=-Warning
+/instance/org.eclipse.cdt.codan.core/org.eclipse.cdt.codan.internal.checkers.MissCaseProblem.params={launchModes\=>{RUN_ON_FULL_BUILD\=>true,RUN_ON_INC_BUILD\=>true,RUN_ON_FILE_OPEN\=>false,RUN_ON_FILE_SAVE\=>false,RUN_AS_YOU_TYPE\=>true,RUN_ON_DEMAND\=>true},suppression_comment\=>"@suppress(\\"Missing cases in switch\\")"}
+/instance/org.eclipse.cdt.codan.core/org.eclipse.cdt.codan.internal.checkers.MissDefaultProblem=-Warning
+/instance/org.eclipse.cdt.codan.core/org.eclipse.cdt.codan.internal.checkers.MissDefaultProblem.params={launchModes\=>{RUN_ON_FULL_BUILD\=>true,RUN_ON_INC_BUILD\=>true,RUN_ON_FILE_OPEN\=>false,RUN_ON_FILE_SAVE\=>false,RUN_AS_YOU_TYPE\=>true,RUN_ON_DEMAND\=>true},suppression_comment\=>"@suppress(\\"Missing default in switch\\")",defaultWithAllEnums\=>false}
+/instance/org.eclipse.cdt.codan.core/org.eclipse.cdt.codan.internal.checkers.MissReferenceProblem=-Warning
+/instance/org.eclipse.cdt.codan.core/org.eclipse.cdt.codan.internal.checkers.MissReferenceProblem.params={launchModes\=>{RUN_ON_FULL_BUILD\=>true,RUN_ON_INC_BUILD\=>true,RUN_ON_FILE_OPEN\=>false,RUN_ON_FILE_SAVE\=>false,RUN_AS_YOU_TYPE\=>true,RUN_ON_DEMAND\=>true},suppression_comment\=>"@suppress(\\"Missing reference return value in assignment operator\\")"}
+/instance/org.eclipse.cdt.codan.core/org.eclipse.cdt.codan.internal.checkers.MissSelfCheckProblem=-Warning
+/instance/org.eclipse.cdt.codan.core/org.eclipse.cdt.codan.internal.checkers.MissSelfCheckProblem.params={launchModes\=>{RUN_ON_FULL_BUILD\=>true,RUN_ON_INC_BUILD\=>true,RUN_ON_FILE_OPEN\=>false,RUN_ON_FILE_SAVE\=>false,RUN_AS_YOU_TYPE\=>true,RUN_ON_DEMAND\=>true},suppression_comment\=>"@suppress(\\"Missing self check in assignment operator\\")"}
+/instance/org.eclipse.cdt.codan.core/org.eclipse.cdt.codan.internal.checkers.MultipleDeclarationsProblem=-Warning
+/instance/org.eclipse.cdt.codan.core/org.eclipse.cdt.codan.internal.checkers.MultipleDeclarationsProblem.params={launchModes\=>{RUN_ON_FULL_BUILD\=>true,RUN_ON_INC_BUILD\=>true,RUN_ON_FILE_OPEN\=>false,RUN_ON_FILE_SAVE\=>false,RUN_AS_YOU_TYPE\=>true,RUN_ON_DEMAND\=>true},suppression_comment\=>"@suppress(\\"Multiple variable declaration\\")"}
+/instance/org.eclipse.cdt.codan.core/org.eclipse.cdt.codan.internal.checkers.NamingConventionFunctionChecker.params={launchModes\=>{RUN_ON_FULL_BUILD\=>true,RUN_ON_INC_BUILD\=>true,RUN_ON_FILE_OPEN\=>false,RUN_ON_FILE_SAVE\=>false,RUN_AS_YOU_TYPE\=>true,RUN_ON_DEMAND\=>true},suppression_comment\=>"@suppress(\\"Name convention for function\\")",pattern\=>"^[a-z]",macro\=>true,exceptions\=>()}
+/instance/org.eclipse.cdt.codan.core/org.eclipse.cdt.codan.internal.checkers.NoDiscardProblem=Warning
+/instance/org.eclipse.cdt.codan.core/org.eclipse.cdt.codan.internal.checkers.NoDiscardProblem.params={launchModes\=>{RUN_ON_FULL_BUILD\=>true,RUN_ON_INC_BUILD\=>true,RUN_ON_FILE_OPEN\=>false,RUN_ON_FILE_SAVE\=>false,RUN_AS_YOU_TYPE\=>true,RUN_ON_DEMAND\=>true},suppression_comment\=>"@suppress(\\"Return value not evaluated\\")",macro\=>true}
+/instance/org.eclipse.cdt.codan.core/org.eclipse.cdt.codan.internal.checkers.NonVirtualDestructorProblem.params={launchModes\=>{RUN_ON_FULL_BUILD\=>true,RUN_ON_INC_BUILD\=>true,RUN_ON_FILE_OPEN\=>false,RUN_ON_FILE_SAVE\=>false,RUN_AS_YOU_TYPE\=>true,RUN_ON_DEMAND\=>true},suppression_comment\=>"@suppress(\\"Class has a virtual method and non-virtual destructor\\")"}
+/instance/org.eclipse.cdt.codan.core/org.eclipse.cdt.codan.internal.checkers.OverloadProblem.params={launchModes\=>{RUN_ON_FULL_BUILD\=>true,RUN_ON_INC_BUILD\=>true,RUN_ON_FILE_OPEN\=>false,RUN_ON_FILE_SAVE\=>false,RUN_AS_YOU_TYPE\=>true,RUN_ON_DEMAND\=>true},suppression_comment\=>"@suppress(\\"Invalid overload\\")"}
+/instance/org.eclipse.cdt.codan.core/org.eclipse.cdt.codan.internal.checkers.RedeclarationProblem.params={launchModes\=>{RUN_ON_FULL_BUILD\=>true,RUN_ON_INC_BUILD\=>true,RUN_ON_FILE_OPEN\=>false,RUN_ON_FILE_SAVE\=>false,RUN_AS_YOU_TYPE\=>true,RUN_ON_DEMAND\=>true},suppression_comment\=>"@suppress(\\"Invalid redeclaration\\")"}
+/instance/org.eclipse.cdt.codan.core/org.eclipse.cdt.codan.internal.checkers.RedefinitionProblem.params={launchModes\=>{RUN_ON_FULL_BUILD\=>true,RUN_ON_INC_BUILD\=>true,RUN_ON_FILE_OPEN\=>false,RUN_ON_FILE_SAVE\=>false,RUN_AS_YOU_TYPE\=>true,RUN_ON_DEMAND\=>true},suppression_comment\=>"@suppress(\\"Invalid redefinition\\")"}
+/instance/org.eclipse.cdt.codan.core/org.eclipse.cdt.codan.internal.checkers.ReturnStyleProblem.params={launchModes\=>{RUN_ON_FULL_BUILD\=>true,RUN_ON_INC_BUILD\=>true,RUN_ON_FILE_OPEN\=>false,RUN_ON_FILE_SAVE\=>false,RUN_AS_YOU_TYPE\=>true,RUN_ON_DEMAND\=>true},suppression_comment\=>"@suppress(\\"Return with parenthesis\\")"}
+/instance/org.eclipse.cdt.codan.core/org.eclipse.cdt.codan.internal.checkers.ScanfFormatStringSecurityProblem.params={launchModes\=>{RUN_ON_FULL_BUILD\=>true,RUN_ON_INC_BUILD\=>true,RUN_ON_FILE_OPEN\=>false,RUN_ON_FILE_SAVE\=>false,RUN_AS_YOU_TYPE\=>true,RUN_ON_DEMAND\=>true},suppression_comment\=>"@suppress(\\"Format String Vulnerability\\")"}
+/instance/org.eclipse.cdt.codan.core/org.eclipse.cdt.codan.internal.checkers.ShallowCopyProblem=-Warning
+/instance/org.eclipse.cdt.codan.core/org.eclipse.cdt.codan.internal.checkers.ShallowCopyProblem.params={launchModes\=>{RUN_ON_FULL_BUILD\=>true,RUN_ON_INC_BUILD\=>true,RUN_ON_FILE_OPEN\=>false,RUN_ON_FILE_SAVE\=>false,RUN_AS_YOU_TYPE\=>true,RUN_ON_DEMAND\=>true},suppression_comment\=>"@suppress(\\"Miss copy constructor or assignment operator\\")",onlynew\=>false}
+/instance/org.eclipse.cdt.codan.core/org.eclipse.cdt.codan.internal.checkers.StatementHasNoEffectProblem.params={launchModes\=>{RUN_ON_FULL_BUILD\=>true,RUN_ON_INC_BUILD\=>true,RUN_ON_FILE_OPEN\=>false,RUN_ON_FILE_SAVE\=>false,RUN_AS_YOU_TYPE\=>true,RUN_ON_DEMAND\=>true},suppression_comment\=>"@suppress(\\"Statement has no effect\\")",macro\=>true,exceptions\=>()}
+/instance/org.eclipse.cdt.codan.core/org.eclipse.cdt.codan.internal.checkers.StaticVariableInHeaderProblem=-Warning
+/instance/org.eclipse.cdt.codan.core/org.eclipse.cdt.codan.internal.checkers.StaticVariableInHeaderProblem.params={launchModes\=>{RUN_ON_FULL_BUILD\=>true,RUN_ON_INC_BUILD\=>true,RUN_ON_FILE_OPEN\=>false,RUN_ON_FILE_SAVE\=>false,RUN_AS_YOU_TYPE\=>true,RUN_ON_DEMAND\=>true},suppression_comment\=>"@suppress(\\"Static variable in header file\\")"}
+/instance/org.eclipse.cdt.codan.core/org.eclipse.cdt.codan.internal.checkers.SuggestedParenthesisProblem.params={launchModes\=>{RUN_ON_FULL_BUILD\=>true,RUN_ON_INC_BUILD\=>true,RUN_ON_FILE_OPEN\=>false,RUN_ON_FILE_SAVE\=>false,RUN_AS_YOU_TYPE\=>true,RUN_ON_DEMAND\=>true},suppression_comment\=>"@suppress(\\"Suggested parenthesis around expression\\")",paramNot\=>false}
+/instance/org.eclipse.cdt.codan.core/org.eclipse.cdt.codan.internal.checkers.SuspiciousSemicolonProblem.params={launchModes\=>{RUN_ON_FULL_BUILD\=>true,RUN_ON_INC_BUILD\=>true,RUN_ON_FILE_OPEN\=>false,RUN_ON_FILE_SAVE\=>false,RUN_AS_YOU_TYPE\=>true,RUN_ON_DEMAND\=>true},suppression_comment\=>"@suppress(\\"Suspicious semicolon\\")",else\=>false,afterelse\=>false}
+/instance/org.eclipse.cdt.codan.core/org.eclipse.cdt.codan.internal.checkers.SymbolShadowingProblem=-Warning
+/instance/org.eclipse.cdt.codan.core/org.eclipse.cdt.codan.internal.checkers.SymbolShadowingProblem.params={launchModes\=>{RUN_ON_FULL_BUILD\=>true,RUN_ON_INC_BUILD\=>true,RUN_ON_FILE_OPEN\=>false,RUN_ON_FILE_SAVE\=>false,RUN_AS_YOU_TYPE\=>true,RUN_ON_DEMAND\=>true},suppression_comment\=>"@suppress(\\"Symbol shadowing\\")",paramFuncParameters\=>true}
+/instance/org.eclipse.cdt.codan.core/org.eclipse.cdt.codan.internal.checkers.TypeResolutionProblem.params={launchModes\=>{RUN_ON_FULL_BUILD\=>true,RUN_ON_INC_BUILD\=>true,RUN_ON_FILE_OPEN\=>false,RUN_ON_FILE_SAVE\=>false,RUN_AS_YOU_TYPE\=>true,RUN_ON_DEMAND\=>true},suppression_comment\=>"@suppress(\\"Type cannot be resolved\\")"}
+/instance/org.eclipse.cdt.codan.core/org.eclipse.cdt.codan.internal.checkers.UnusedFunctionDeclarationProblem.params={launchModes\=>{RUN_ON_FULL_BUILD\=>true,RUN_ON_INC_BUILD\=>true,RUN_ON_FILE_OPEN\=>false,RUN_ON_FILE_SAVE\=>false,RUN_AS_YOU_TYPE\=>true,RUN_ON_DEMAND\=>true},suppression_comment\=>"@suppress(\\"Unused function declaration\\")",macro\=>true}
+/instance/org.eclipse.cdt.codan.core/org.eclipse.cdt.codan.internal.checkers.UnusedStaticFunctionProblem.params={launchModes\=>{RUN_ON_FULL_BUILD\=>true,RUN_ON_INC_BUILD\=>true,RUN_ON_FILE_OPEN\=>false,RUN_ON_FILE_SAVE\=>false,RUN_AS_YOU_TYPE\=>true,RUN_ON_DEMAND\=>true},suppression_comment\=>"@suppress(\\"Unused static function\\")",macro\=>true}
+/instance/org.eclipse.cdt.codan.core/org.eclipse.cdt.codan.internal.checkers.UnusedVariableDeclarationProblem.params={launchModes\=>{RUN_ON_FULL_BUILD\=>true,RUN_ON_INC_BUILD\=>true,RUN_ON_FILE_OPEN\=>false,RUN_ON_FILE_SAVE\=>false,RUN_AS_YOU_TYPE\=>true,RUN_ON_DEMAND\=>true},suppression_comment\=>"@suppress(\\"Unused variable declaration in file scope\\")",macro\=>true,exceptions\=>("@(\#)","$Id")}
+/instance/org.eclipse.cdt.codan.core/org.eclipse.cdt.codan.internal.checkers.UsingInHeaderProblem=-Warning
+/instance/org.eclipse.cdt.codan.core/org.eclipse.cdt.codan.internal.checkers.UsingInHeaderProblem.params={launchModes\=>{RUN_ON_FULL_BUILD\=>true,RUN_ON_INC_BUILD\=>true,RUN_ON_FILE_OPEN\=>false,RUN_ON_FILE_SAVE\=>false,RUN_AS_YOU_TYPE\=>true,RUN_ON_DEMAND\=>true},suppression_comment\=>"@suppress(\\"Using directive in header\\")"}
+/instance/org.eclipse.cdt.codan.core/org.eclipse.cdt.codan.internal.checkers.VariableResolutionProblem.params={launchModes\=>{RUN_ON_FULL_BUILD\=>true,RUN_ON_INC_BUILD\=>true,RUN_ON_FILE_OPEN\=>false,RUN_ON_FILE_SAVE\=>false,RUN_AS_YOU_TYPE\=>true,RUN_ON_DEMAND\=>true},suppression_comment\=>"@suppress(\\"Symbol is not resolved\\")"}
+/instance/org.eclipse.cdt.codan.core/org.eclipse.cdt.codan.internal.checkers.VirtualMethodCallProblem=-Error
+/instance/org.eclipse.cdt.codan.core/org.eclipse.cdt.codan.internal.checkers.VirtualMethodCallProblem.params={launchModes\=>{RUN_ON_FULL_BUILD\=>true,RUN_ON_INC_BUILD\=>true,RUN_ON_FILE_OPEN\=>false,RUN_ON_FILE_SAVE\=>false,RUN_AS_YOU_TYPE\=>true,RUN_ON_DEMAND\=>true},suppression_comment\=>"@suppress(\\"Virtual method call in constructor/destructor\\")"}
+/instance/org.eclipse.cdt.core.prj-0001Testproject/indexer/preferenceScope=0
+/instance/org.eclipse.cdt.core.prj-ASCII/indexer/preferenceScope=0
+/instance/org.eclipse.cdt.core.prj-Average/indexer/preferenceScope=0
+/instance/org.eclipse.cdt.core.prj-Char\ to\ ASCII/indexer/preferenceScope=0
+/instance/org.eclipse.cdt.core.prj-Dangling\ Pointer/indexer/preferenceScope=0
+/instance/org.eclipse.cdt.core.prj-Demo/indexer/indexAllFiles=true
+/instance/org.eclipse.cdt.core.prj-Demo/indexer/indexAllHeaderVersions=false
+/instance/org.eclipse.cdt.core.prj-Demo/indexer/indexImportLocation=.settings/cdt-index.zip
+/instance/org.eclipse.cdt.core.prj-Demo/indexer/indexOnOpen=false
+/instance/org.eclipse.cdt.core.prj-Demo/indexer/indexUnusedHeadersWithAlternateLang=false
+/instance/org.eclipse.cdt.core.prj-Demo/indexer/indexUnusedHeadersWithDefaultLang=true
+/instance/org.eclipse.cdt.core.prj-Demo/indexer/indexerId=org.eclipse.cdt.core.fastIndexer
+/instance/org.eclipse.cdt.core.prj-Demo/indexer/preferenceScope=1
+/instance/org.eclipse.cdt.core.prj-Demo/indexer/skipFilesLargerThanMB=8
+/instance/org.eclipse.cdt.core.prj-Demo/indexer/skipImplicitReferences=false
+/instance/org.eclipse.cdt.core.prj-Demo/indexer/skipIncludedFilesLargerThanMB=16
+/instance/org.eclipse.cdt.core.prj-Demo/indexer/skipMacroReferences=false
+/instance/org.eclipse.cdt.core.prj-Demo/indexer/skipReferences=false
+/instance/org.eclipse.cdt.core.prj-Demo/indexer/skipTypeReferences=false
+/instance/org.eclipse.cdt.core.prj-Demo/indexer/useHeuristicIncludeResolution=true
+/instance/org.eclipse.cdt.core.prj-Pointer_test/indexer/preferenceScope=0
+/instance/org.eclipse.cdt.core.prj-String_return/indexer/preferenceScope=0
+/instance/org.eclipse.cdt.core.prj-WhileLoop1to10/indexer/preferenceScope=0
+/instance/org.eclipse.cdt.core.prj-arrays/indexer/preferenceScope=0
+/instance/org.eclipse.cdt.core.prj-arrays_passing/indexer/preferenceScope=0
+/instance/org.eclipse.cdt.core.prj-arrays_swap/indexer/preferenceScope=0
+/instance/org.eclipse.cdt.core.prj-bitWise2Numbers/indexer/preferenceScope=0
+/instance/org.eclipse.cdt.core.prj-bitWiseEvenOdd/indexer/preferenceScope=0
+/instance/org.eclipse.cdt.core.prj-bitWiseSet/indexer/preferenceScope=0
+/instance/org.eclipse.cdt.core.prj-constdata/indexer/preferenceScope=0
+/instance/org.eclipse.cdt.core.prj-dataAlignment/indexer/preferenceScope=0
+/instance/org.eclipse.cdt.core.prj-doubble\ pointer/indexer/preferenceScope=0
+/instance/org.eclipse.cdt.core.prj-forLoopEvenNum/indexer/preferenceScope=0
+/instance/org.eclipse.cdt.core.prj-forloopNumberPyramid/indexer/preferenceScope=0
+/instance/org.eclipse.cdt.core.prj-function/indexer/preferenceScope=0
+/instance/org.eclipse.cdt.core.prj-ifelseBiggestOfTwo/indexer/preferenceScope=0
+/instance/org.eclipse.cdt.core.prj-ifelseCastVote/indexer/preferenceScope=0
+/instance/org.eclipse.cdt.core.prj-ifelseifTax/indexer/preferenceScope=0
+/instance/org.eclipse.cdt.core.prj-ifstatementCastVote/indexer/preferenceScope=0
+/instance/org.eclipse.cdt.core.prj-macro/indexer/preferenceScope=0
+/instance/org.eclipse.cdt.core.prj-math/indexer/preferenceScope=0
+/instance/org.eclipse.cdt.core.prj-pointer\ call\ by\ referance\ swap/indexer/preferenceScope=0
+/instance/org.eclipse.cdt.core.prj-pointer/indexer/preferenceScope=0
+/instance/org.eclipse.cdt.core.prj-pointer_1/indexer/preferenceScope=0
+/instance/org.eclipse.cdt.core.prj-pointer_2/indexer/preferenceScope=0
+/instance/org.eclipse.cdt.core.prj-strings/indexer/preferenceScope=0
+/instance/org.eclipse.cdt.core.prj-structInit/indexer/preferenceScope=0
+/instance/org.eclipse.cdt.core.prj-structPacket/indexer/preferenceScope=0
+/instance/org.eclipse.cdt.core.prj-structPacketBitfield/indexer/preferenceScope=0
+/instance/org.eclipse.cdt.core.prj-structPointer/indexer/preferenceScope=0
+/instance/org.eclipse.cdt.core.prj-struct_array/indexer/preferenceScope=0
+/instance/org.eclipse.cdt.core.prj-student_record/indexer/preferenceScope=0
+/instance/org.eclipse.cdt.core.prj-switchCaseArea/indexer/preferenceScope=0
+/instance/org.eclipse.cdt.core.prj-test\ pointer/indexer/preferenceScope=0
+/instance/org.eclipse.cdt.core.prj-test/indexer/preferenceScope=0
+/instance/org.eclipse.cdt.core.prj-test2/indexer/preferenceScope=0
+/instance/org.eclipse.cdt.core.prj-type_casting/indexer/preferenceScope=0
+/instance/org.eclipse.cdt.core.prj-union/indexer/preferenceScope=0
+/instance/org.eclipse.cdt.core.prj-unionBitExraction/indexer/preferenceScope=0
+/instance/org.eclipse.cdt.core.prj-var_address/indexer/preferenceScope=0
+/instance/org.eclipse.cdt.core.prj-whileLoopEvenNum/indexer/preferenceScope=0
+/instance/org.eclipse.cdt.core/doctool/workspace.default=org.eclipse.cdt.ui.doxygen
+/instance/org.eclipse.cdt.core/doxygen/doxygen_new_line_after_brief=true
+/instance/org.eclipse.cdt.core/doxygen/doxygen_use_brief_tag=false
+/instance/org.eclipse.cdt.core/doxygen/doxygen_use_javadoc_tags=true
+/instance/org.eclipse.cdt.core/doxygen/doxygen_use_pre_tag=false
+/instance/org.eclipse.cdt.core/doxygen/doxygen_use_structural_commands=false
+/instance/org.eclipse.cdt.debug.core/org.eclipse.cdt.debug.core.cDebug.default_source_containers=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?>\n<sourceLookupDirector>\n    <sourceContainers duplicates\="false">\n        <container memento\="AbsolutePath" typeId\="org.eclipse.cdt.debug.core.containerType.absolutePath"/>\n        <container memento\="programRelativePath" typeId\="org.eclipse.cdt.debug.core.containerType.programRelativePath"/>\n        <container memento\="&lt;?xml version\=&quot;1.0&quot; encoding\=&quot;UTF-8&quot; standalone\=&quot;no&quot;?&gt;&\#10;&lt;project referencedProjects\=&quot;true&quot;/&gt;&\#10;" typeId\="org.eclipse.cdt.debug.core.containerType.project"/>\n    </sourceContainers>\n</sourceLookupDirector>\n
+/instance/org.eclipse.cdt.dsf.ui/useAnnotationsPrefPage=true
+/instance/org.eclipse.cdt.managedbuilder.core/properties/0001Testproject.cdt.managedbuild.target.gnu.exe.94014428/cdt.managedbuild.config.gnu.exe.debug.252782079=cdt.managedbuild.tool.gnu.cpp.compiler.exe.debug.859519361\=rebuildState\\\=false\\n\ncdt.managedbuild.config.gnu.exe.debug.252782079\=rebuildState\\\=false\\nrcState\\\=0\\n\ncdt.managedbuild.tool.gnu.c.linker.exe.debug.1611046244\=rebuildState\\\=false\\n\ncdt.managedbuild.tool.gnu.cpp.linker.exe.debug.1625234545\=rebuildState\\\=false\\n\ncdt.managedbuild.tool.gnu.c.compiler.exe.debug.466270266\=rebuildState\\\=false\\n\ncdt.managedbuild.tool.gnu.assembler.exe.debug.310074688\=rebuildState\\\=false\\n\ncdt.managedbuild.toolchain.gnu.exe.debug.1390334719\=rebuildState\\\=false\\n\ncdt.managedbuild.tool.gnu.archiver.base.1409867051\=rebuildState\\\=false\\n\n
+/instance/org.eclipse.cdt.managedbuilder.core/properties/0001Testproject.cdt.managedbuild.target.gnu.exe.94014428/cdt.managedbuild.config.gnu.exe.release.79280594=cdt.managedbuild.tool.gnu.assembler.exe.release.1660199966\=rebuildState\\\=true\\n\ncdt.managedbuild.toolchain.gnu.exe.release.1013729372\=rebuildState\\\=true\\n\ncdt.managedbuild.tool.gnu.cpp.compiler.exe.release.1029213050\=rebuildState\\\=true\\n\ncdt.managedbuild.tool.gnu.c.linker.exe.release.1723762150\=rebuildState\\\=true\\n\ncdt.managedbuild.tool.gnu.cpp.linker.exe.release.941117247\=rebuildState\\\=true\\n\ncdt.managedbuild.tool.gnu.c.compiler.exe.release.1089971083\=rebuildState\\\=true\\n\ncdt.managedbuild.tool.gnu.archiver.base.774700440\=rebuildState\\\=true\\n\n
+/instance/org.eclipse.cdt.managedbuilder.core/properties/ASCII\ conversion.cdt.managedbuild.target.gnu.exe.1005100748/cdt.managedbuild.config.gnu.exe.debug.1609610222=cdt.managedbuild.tool.gnu.assembler.exe.debug.1815393252\=rebuildState\\\=false\\n\ncdt.managedbuild.toolchain.gnu.exe.debug.1416895965\=rebuildState\\\=false\\n\ncdt.managedbuild.tool.gnu.cpp.linker.exe.debug.47115099\=rebuildState\\\=false\\n\ncdt.managedbuild.tool.gnu.c.linker.exe.debug.756892248\=rebuildState\\\=false\\n\ncdt.managedbuild.config.gnu.exe.debug.1609610222\=rebuildState\\\=false\\nrcState\\\=0\\n\ncdt.managedbuild.tool.gnu.archiver.base.376807625\=rebuildState\\\=false\\n\ncdt.managedbuild.tool.gnu.cpp.compiler.exe.debug.1636380639\=rebuildState\\\=false\\n\ncdt.managedbuild.tool.gnu.c.compiler.exe.debug.786894982\=rebuildState\\\=false\\n\n
+/instance/org.eclipse.cdt.managedbuilder.core/properties/ASCII\ conversion.cdt.managedbuild.target.gnu.exe.1005100748/cdt.managedbuild.config.gnu.exe.release.702231518=cdt.managedbuild.tool.gnu.archiver.base.313952316\=rebuildState\\\=true\\n\ncdt.managedbuild.tool.gnu.c.compiler.exe.release.1111109976\=rebuildState\\\=true\\n\ncdt.managedbuild.tool.gnu.cpp.linker.exe.release.133461152\=rebuildState\\\=true\\n\ncdt.managedbuild.tool.gnu.assembler.exe.release.40418047\=rebuildState\\\=true\\n\ncdt.managedbuild.tool.gnu.c.linker.exe.release.1292262987\=rebuildState\\\=true\\n\ncdt.managedbuild.toolchain.gnu.exe.release.955227772\=rebuildState\\\=true\\n\ncdt.managedbuild.tool.gnu.cpp.compiler.exe.release.1212805267\=rebuildState\\\=true\\n\n
+/instance/org.eclipse.cdt.managedbuilder.core/properties/ASCII.cdt.managedbuild.target.gnu.mingw.exe.733940630/cdt.managedbuild.config.gnu.mingw.exe.debug.1062569139=cdt.managedbuild.tool.gnu.cpp.linker.mingw.exe.debug.1521032889\=rebuildState\\\=false\\n\ncdt.managedbuild.tool.gnu.cpp.compiler.mingw.exe.debug.353577859\=rebuildState\\\=false\\n\ncdt.managedbuild.config.gnu.mingw.exe.debug.1062569139\=rebuildState\\\=false\\nrcState\\\=0\\n\ncdt.managedbuild.tool.gnu.c.compiler.mingw.exe.debug.1888762969\=rebuildState\\\=false\\n\ncdt.managedbuild.tool.gnu.assembler.mingw.exe.debug.875773856\=rebuildState\\\=false\\n\ncdt.managedbuild.tool.gnu.archiver.mingw.base.34651454\=rebuildState\\\=false\\n\ncdt.managedbuild.toolchain.gnu.mingw.exe.debug.1091439177\=rebuildState\\\=false\\n\ncdt.managedbuild.tool.gnu.c.linker.mingw.exe.debug.810037356\=rebuildState\\\=false\\n\n
+/instance/org.eclipse.cdt.managedbuilder.core/properties/Average.cdt.managedbuild.target.gnu.exe.28322118/cdt.managedbuild.config.gnu.exe.debug.401159995=cdt.managedbuild.tool.gnu.cpp.compiler.exe.debug.1098555837\=rebuildState\\\=false\\n\ncdt.managedbuild.tool.gnu.archiver.base.1865803410\=rebuildState\\\=false\\n\ncdt.managedbuild.config.gnu.exe.debug.401159995\=rebuildState\\\=false\\nrcState\\\=0\\n\ncdt.managedbuild.tool.gnu.c.compiler.exe.debug.1414891741\=rebuildState\\\=false\\n\ncdt.managedbuild.tool.gnu.cpp.linker.exe.debug.1861949772\=rebuildState\\\=false\\n\ncdt.managedbuild.tool.gnu.assembler.exe.debug.89978868\=rebuildState\\\=false\\n\ncdt.managedbuild.tool.gnu.c.linker.exe.debug.1139569519\=rebuildState\\\=false\\n\ncdt.managedbuild.toolchain.gnu.exe.debug.1413152549\=rebuildState\\\=false\\n\n
+/instance/org.eclipse.cdt.managedbuilder.core/properties/Average.cdt.managedbuild.target.gnu.exe.28322118/cdt.managedbuild.config.gnu.exe.release.167460489=cdt.managedbuild.tool.gnu.c.compiler.exe.release.1186064445\=rebuildState\\\=true\\n\ncdt.managedbuild.tool.gnu.c.linker.exe.release.1553634915\=rebuildState\\\=true\\n\ncdt.managedbuild.tool.gnu.cpp.linker.exe.release.665092695\=rebuildState\\\=true\\n\ncdt.managedbuild.tool.gnu.assembler.exe.release.164286505\=rebuildState\\\=true\\n\ncdt.managedbuild.tool.gnu.archiver.base.1677171744\=rebuildState\\\=true\\n\ncdt.managedbuild.toolchain.gnu.exe.release.1491555268\=rebuildState\\\=true\\n\ncdt.managedbuild.tool.gnu.cpp.compiler.exe.release.1949781047\=rebuildState\\\=true\\n\n
+/instance/org.eclipse.cdt.managedbuilder.core/properties/Char\ to\ ASCII.cdt.managedbuild.target.gnu.exe.1887043727/cdt.managedbuild.config.gnu.exe.debug.740056996=cdt.managedbuild.tool.gnu.archiver.base.1878201795\=rebuildState\\\=false\\n\ncdt.managedbuild.toolchain.gnu.exe.debug.458635213\=rebuildState\\\=false\\n\ncdt.managedbuild.tool.gnu.c.linker.exe.debug.1418866078\=rebuildState\\\=false\\n\ncdt.managedbuild.tool.gnu.cpp.compiler.exe.debug.78396877\=rebuildState\\\=false\\n\ncdt.managedbuild.tool.gnu.cpp.linker.exe.debug.1937912841\=rebuildState\\\=false\\n\ncdt.managedbuild.tool.gnu.assembler.exe.debug.150400974\=rebuildState\\\=false\\n\ncdt.managedbuild.config.gnu.exe.debug.740056996\=rebuildState\\\=false\\nrcState\\\=0\\n\ncdt.managedbuild.tool.gnu.c.compiler.exe.debug.3382425\=rebuildState\\\=false\\n\n
+/instance/org.eclipse.cdt.managedbuilder.core/properties/Char\ to\ ASCII.cdt.managedbuild.target.gnu.exe.1887043727/cdt.managedbuild.config.gnu.exe.release.1388704960=cdt.managedbuild.tool.gnu.cpp.compiler.exe.release.2109261800\=rebuildState\\\=true\\n\ncdt.managedbuild.tool.gnu.c.compiler.exe.release.640758438\=rebuildState\\\=true\\n\ncdt.managedbuild.tool.gnu.c.linker.exe.release.2067049248\=rebuildState\\\=true\\n\ncdt.managedbuild.toolchain.gnu.exe.release.783538936\=rebuildState\\\=true\\n\ncdt.managedbuild.tool.gnu.archiver.base.910805917\=rebuildState\\\=true\\n\ncdt.managedbuild.tool.gnu.assembler.exe.release.461542420\=rebuildState\\\=true\\n\ncdt.managedbuild.tool.gnu.cpp.linker.exe.release.1874113556\=rebuildState\\\=true\\n\n
+/instance/org.eclipse.cdt.managedbuilder.core/properties/Dangling\ Pointer.cdt.managedbuild.target.gnu.exe.410804900/cdt.managedbuild.config.gnu.exe.debug.1747265598=cdt.managedbuild.tool.gnu.cpp.linker.exe.debug.305223801\=rebuildState\\\=false\\n\ncdt.managedbuild.tool.gnu.cpp.compiler.exe.debug.1320416281\=rebuildState\\\=false\\n\ncdt.managedbuild.config.gnu.exe.debug.1747265598\=rebuildState\\\=false\\nrcState\\\=0\\n\ncdt.managedbuild.tool.gnu.c.compiler.exe.debug.1720428791\=rebuildState\\\=false\\n\ncdt.managedbuild.tool.gnu.c.linker.exe.debug.1725228077\=rebuildState\\\=false\\n\ncdt.managedbuild.tool.gnu.assembler.exe.debug.690839975\=rebuildState\\\=false\\n\ncdt.managedbuild.tool.gnu.archiver.base.1123766867\=rebuildState\\\=false\\n\ncdt.managedbuild.toolchain.gnu.exe.debug.2043468022\=rebuildState\\\=false\\n\n
+/instance/org.eclipse.cdt.managedbuilder.core/properties/Dangling\ Pointer.cdt.managedbuild.target.gnu.exe.410804900/cdt.managedbuild.config.gnu.exe.release.1848636486=cdt.managedbuild.tool.gnu.archiver.base.1560627180\=rebuildState\\\=true\\n\ncdt.managedbuild.tool.gnu.cpp.linker.exe.release.708476747\=rebuildState\\\=true\\n\ncdt.managedbuild.tool.gnu.c.linker.exe.release.361407004\=rebuildState\\\=true\\n\ncdt.managedbuild.tool.gnu.cpp.compiler.exe.release.1068571997\=rebuildState\\\=true\\n\ncdt.managedbuild.tool.gnu.assembler.exe.release.723293905\=rebuildState\\\=true\\n\ncdt.managedbuild.toolchain.gnu.exe.release.1492948667\=rebuildState\\\=true\\n\ncdt.managedbuild.tool.gnu.c.compiler.exe.release.896161253\=rebuildState\\\=true\\n\n
+/instance/org.eclipse.cdt.managedbuilder.core/properties/Demo.null.799547719/com.st.stm32cube.ide.mcu.gnu.managedbuild.config.exe.debug.419361665=com.st.stm32cube.ide.mcu.gnu.managedbuild.tool.objcopy.srec.2053081386\=rebuildState\\\=true\\n\ncom.st.stm32cube.ide.mcu.gnu.managedbuild.tool.objcopy.hex.2057892395\=rebuildState\\\=true\\n\ncom.st.stm32cube.ide.mcu.gnu.managedbuild.tool.objcopy.symbolsrec.320620939\=rebuildState\\\=true\\n\ncom.st.stm32cube.ide.mcu.gnu.managedbuild.tool.c.linker.260691766\=rebuildState\\\=true\\n\ncom.st.stm32cube.ide.mcu.gnu.managedbuild.tool.assembler.1943733805\=rebuildState\\\=true\\n\ncom.st.stm32cube.ide.mcu.gnu.managedbuild.tool.size.355967841\=rebuildState\\\=true\\n\ncom.st.stm32cube.ide.mcu.gnu.managedbuild.tool.objdump.listfile.710803429\=rebuildState\\\=true\\n\ncom.st.stm32cube.ide.mcu.gnu.managedbuild.tool.objcopy.verilog.229972770\=rebuildState\\\=true\\n\ncom.st.stm32cube.ide.mcu.gnu.managedbuild.config.exe.debug.419361665\=rebuildState\\\=true\\n\ncom.st.stm32cube.ide.mcu.gnu.managedbuild.toolchain.exe.debug.254220409\=rebuildState\\\=true\\n\ncom.st.stm32cube.ide.mcu.gnu.managedbuild.tool.archiver.1766963509\=rebuildState\\\=true\\n\ncom.st.stm32cube.ide.mcu.gnu.managedbuild.tool.cpp.compiler.1312629929\=rebuildState\\\=true\\n\ncom.st.stm32cube.ide.mcu.gnu.managedbuild.tool.cpp.linker.297986560\=rebuildState\\\=true\\n\ncom.st.stm32cube.ide.mcu.gnu.managedbuild.tool.c.compiler.1372907931\=rebuildState\\\=true\\n\ncom.st.stm32cube.ide.mcu.gnu.managedbuild.tool.objcopy.binary.285476508\=rebuildState\\\=true\\n\n
+/instance/org.eclipse.cdt.managedbuilder.core/properties/Pointer_test.cdt.managedbuild.target.gnu.exe.331510772/cdt.managedbuild.config.gnu.exe.debug.1361332158=cdt.managedbuild.tool.gnu.cpp.compiler.exe.debug.813962386\=rebuildState\\\=false\\n\ncdt.managedbuild.tool.gnu.cpp.linker.exe.debug.1128168910\=rebuildState\\\=false\\n\ncdt.managedbuild.tool.gnu.archiver.base.822338679\=rebuildState\\\=false\\n\ncdt.managedbuild.tool.gnu.c.linker.exe.debug.565052500\=rebuildState\\\=false\\n\ncdt.managedbuild.tool.gnu.assembler.exe.debug.491255789\=rebuildState\\\=false\\n\ncdt.managedbuild.config.gnu.exe.debug.1361332158\=rebuildState\\\=false\\nrcState\\\=0\\n\ncdt.managedbuild.tool.gnu.c.compiler.exe.debug.1132538263\=rebuildState\\\=false\\n\ncdt.managedbuild.toolchain.gnu.exe.debug.1180785009\=rebuildState\\\=false\\n\n
+/instance/org.eclipse.cdt.managedbuilder.core/properties/Pointer_test.cdt.managedbuild.target.gnu.exe.331510772/cdt.managedbuild.config.gnu.exe.release.52126586=cdt.managedbuild.toolchain.gnu.exe.release.300329528\=rebuildState\\\=true\\n\ncdt.managedbuild.tool.gnu.c.linker.exe.release.1595976201\=rebuildState\\\=true\\n\ncdt.managedbuild.tool.gnu.assembler.exe.release.961489471\=rebuildState\\\=true\\n\ncdt.managedbuild.tool.gnu.archiver.base.943662600\=rebuildState\\\=true\\n\ncdt.managedbuild.tool.gnu.cpp.compiler.exe.release.1284730599\=rebuildState\\\=true\\n\ncdt.managedbuild.tool.gnu.cpp.linker.exe.release.1086401933\=rebuildState\\\=true\\n\ncdt.managedbuild.tool.gnu.c.compiler.exe.release.765352078\=rebuildState\\\=true\\n\n
+/instance/org.eclipse.cdt.managedbuilder.core/properties/String_return.cdt.managedbuild.target.gnu.exe.159079158/cdt.managedbuild.config.gnu.exe.debug.1066840431=cdt.managedbuild.toolchain.gnu.exe.debug.1945401967\=rebuildState\\\=false\\n\ncdt.managedbuild.tool.gnu.archiver.base.1704398871\=rebuildState\\\=false\\n\ncdt.managedbuild.tool.gnu.cpp.compiler.exe.debug.275422374\=rebuildState\\\=false\\n\ncdt.managedbuild.tool.gnu.cpp.linker.exe.debug.113479691\=rebuildState\\\=false\\n\ncdt.managedbuild.config.gnu.exe.debug.1066840431\=rebuildState\\\=false\\nrcState\\\=0\\n\ncdt.managedbuild.tool.gnu.assembler.exe.debug.144324053\=rebuildState\\\=false\\n\ncdt.managedbuild.tool.gnu.c.linker.exe.debug.1213633041\=rebuildState\\\=false\\n\ncdt.managedbuild.tool.gnu.c.compiler.exe.debug.1458935345\=rebuildState\\\=false\\n\n
+/instance/org.eclipse.cdt.managedbuilder.core/properties/String_return.cdt.managedbuild.target.gnu.exe.159079158/cdt.managedbuild.config.gnu.exe.release.1189138876=cdt.managedbuild.tool.gnu.archiver.base.710056246\=rebuildState\\\=true\\n\ncdt.managedbuild.tool.gnu.assembler.exe.release.713353358\=rebuildState\\\=true\\n\ncdt.managedbuild.tool.gnu.cpp.compiler.exe.release.1634714828\=rebuildState\\\=true\\n\ncdt.managedbuild.tool.gnu.c.compiler.exe.release.1319552028\=rebuildState\\\=true\\n\ncdt.managedbuild.tool.gnu.c.linker.exe.release.1521793369\=rebuildState\\\=true\\n\ncdt.managedbuild.toolchain.gnu.exe.release.1818901234\=rebuildState\\\=true\\n\ncdt.managedbuild.tool.gnu.cpp.linker.exe.release.975367284\=rebuildState\\\=true\\n\n
+/instance/org.eclipse.cdt.managedbuilder.core/properties/String_return.cdt.managedbuild.target.gnu.exe.1886793330/cdt.managedbuild.config.gnu.exe.debug.1902379144=cdt.managedbuild.tool.gnu.cpp.compiler.exe.debug.70101293\=rebuildState\\\=false\\n\ncdt.managedbuild.tool.gnu.archiver.base.2038927562\=rebuildState\\\=false\\n\ncdt.managedbuild.tool.gnu.assembler.exe.debug.2112198932\=rebuildState\\\=false\\n\ncdt.managedbuild.toolchain.gnu.exe.debug.448278881\=rebuildState\\\=false\\n\ncdt.managedbuild.tool.gnu.c.compiler.exe.debug.153902210\=rebuildState\\\=false\\n\ncdt.managedbuild.tool.gnu.c.linker.exe.debug.239597518\=rebuildState\\\=false\\n\ncdt.managedbuild.tool.gnu.cpp.linker.exe.debug.1020795427\=rebuildState\\\=false\\n\ncdt.managedbuild.config.gnu.exe.debug.1902379144\=rebuildState\\\=false\\nrcState\\\=0\\n\n
+/instance/org.eclipse.cdt.managedbuilder.core/properties/String_return.cdt.managedbuild.target.gnu.exe.1886793330/cdt.managedbuild.config.gnu.exe.release.1211055765=cdt.managedbuild.tool.gnu.c.linker.exe.release.1321614258\=rebuildState\\\=true\\n\ncdt.managedbuild.tool.gnu.cpp.linker.exe.release.780007949\=rebuildState\\\=true\\n\ncdt.managedbuild.toolchain.gnu.exe.release.1371546808\=rebuildState\\\=true\\n\ncdt.managedbuild.tool.gnu.assembler.exe.release.1097803420\=rebuildState\\\=true\\n\ncdt.managedbuild.tool.gnu.cpp.compiler.exe.release.1138167814\=rebuildState\\\=true\\n\ncdt.managedbuild.tool.gnu.c.compiler.exe.release.87238517\=rebuildState\\\=true\\n\ncdt.managedbuild.tool.gnu.archiver.base.522495809\=rebuildState\\\=true\\n\n
+/instance/org.eclipse.cdt.managedbuilder.core/properties/arrays.cdt.managedbuild.target.gnu.mingw.exe.1693082935/cdt.managedbuild.config.gnu.mingw.exe.debug.1203183549=cdt.managedbuild.tool.gnu.cpp.compiler.mingw.exe.debug.744651790\=rebuildState\\\=false\\n\ncdt.managedbuild.config.gnu.mingw.exe.debug.1203183549\=rebuildState\\\=false\\nrcState\\\=0\\n\ncdt.managedbuild.tool.gnu.c.compiler.mingw.exe.debug.1453009946\=rebuildState\\\=false\\n\ncdt.managedbuild.tool.gnu.cpp.linker.mingw.exe.debug.1797310005\=rebuildState\\\=false\\n\ncdt.managedbuild.tool.gnu.archiver.mingw.base.179008023\=rebuildState\\\=false\\n\ncdt.managedbuild.toolchain.gnu.mingw.exe.debug.1892369854\=rebuildState\\\=false\\n\ncdt.managedbuild.tool.gnu.c.linker.mingw.exe.debug.253300817\=rebuildState\\\=false\\n\ncdt.managedbuild.tool.gnu.assembler.mingw.exe.debug.1646658975\=rebuildState\\\=false\\n\n
+/instance/org.eclipse.cdt.managedbuilder.core/properties/doubble\ pointer.cdt.managedbuild.target.gnu.exe.1755523759/cdt.managedbuild.config.gnu.exe.debug.1305073594=cdt.managedbuild.tool.gnu.c.compiler.exe.debug.645447894\=rebuildState\\\=false\\n\ncdt.managedbuild.tool.gnu.assembler.exe.debug.864663281\=rebuildState\\\=false\\n\ncdt.managedbuild.config.gnu.exe.debug.1305073594\=rebuildState\\\=false\\nrcState\\\=0\\n\ncdt.managedbuild.toolchain.gnu.exe.debug.1568907920\=rebuildState\\\=false\\n\ncdt.managedbuild.tool.gnu.cpp.linker.exe.debug.693413421\=rebuildState\\\=false\\n\ncdt.managedbuild.tool.gnu.c.linker.exe.debug.1864275498\=rebuildState\\\=false\\n\ncdt.managedbuild.tool.gnu.archiver.base.1074818785\=rebuildState\\\=false\\n\ncdt.managedbuild.tool.gnu.cpp.compiler.exe.debug.2002027481\=rebuildState\\\=false\\n\n
+/instance/org.eclipse.cdt.managedbuilder.core/properties/doubble\ pointer.cdt.managedbuild.target.gnu.exe.1755523759/cdt.managedbuild.config.gnu.exe.release.636968209=cdt.managedbuild.tool.gnu.cpp.linker.exe.release.1298649076\=rebuildState\\\=true\\n\ncdt.managedbuild.tool.gnu.archiver.base.1242118627\=rebuildState\\\=true\\n\ncdt.managedbuild.tool.gnu.c.linker.exe.release.571887166\=rebuildState\\\=true\\n\ncdt.managedbuild.tool.gnu.c.compiler.exe.release.1338073651\=rebuildState\\\=true\\n\ncdt.managedbuild.tool.gnu.cpp.compiler.exe.release.1619788061\=rebuildState\\\=true\\n\ncdt.managedbuild.tool.gnu.assembler.exe.release.1830832853\=rebuildState\\\=true\\n\ncdt.managedbuild.toolchain.gnu.exe.release.956590235\=rebuildState\\\=true\\n\n
+/instance/org.eclipse.cdt.managedbuilder.core/properties/math.cdt.managedbuild.target.gnu.exe.1830055927/cdt.managedbuild.config.gnu.exe.debug.1087594681=cdt.managedbuild.config.gnu.exe.debug.1087594681\=rebuildState\\\=false\\nrcState\\\=0\\n\ncdt.managedbuild.tool.gnu.c.compiler.exe.debug.1273482971\=rebuildState\\\=false\\n\ncdt.managedbuild.tool.gnu.assembler.exe.debug.1556558071\=rebuildState\\\=false\\n\ncdt.managedbuild.tool.gnu.archiver.base.77951042\=rebuildState\\\=false\\n\ncdt.managedbuild.tool.gnu.cpp.compiler.exe.debug.1742601617\=rebuildState\\\=false\\n\ncdt.managedbuild.tool.gnu.c.linker.exe.debug.1804947723\=rebuildState\\\=false\\n\ncdt.managedbuild.tool.gnu.cpp.linker.exe.debug.53880073\=rebuildState\\\=false\\n\ncdt.managedbuild.toolchain.gnu.exe.debug.889461432\=rebuildState\\\=false\\n\n
+/instance/org.eclipse.cdt.managedbuilder.core/properties/math.cdt.managedbuild.target.gnu.exe.1830055927/cdt.managedbuild.config.gnu.exe.release.471044809=cdt.managedbuild.tool.gnu.cpp.compiler.exe.release.654067764\=rebuildState\\\=true\\n\ncdt.managedbuild.tool.gnu.cpp.linker.exe.release.1742269292\=rebuildState\\\=true\\n\ncdt.managedbuild.tool.gnu.c.compiler.exe.release.797329349\=rebuildState\\\=true\\n\ncdt.managedbuild.toolchain.gnu.exe.release.1432455252\=rebuildState\\\=true\\n\ncdt.managedbuild.tool.gnu.c.linker.exe.release.1550509989\=rebuildState\\\=true\\n\ncdt.managedbuild.tool.gnu.assembler.exe.release.1449906400\=rebuildState\\\=true\\n\ncdt.managedbuild.tool.gnu.archiver.base.876883287\=rebuildState\\\=true\\n\n
+/instance/org.eclipse.cdt.managedbuilder.core/properties/pointer\ call\ by\ referance\ swap.cdt.managedbuild.target.gnu.exe.1587928944/cdt.managedbuild.config.gnu.exe.debug.944074044=cdt.managedbuild.tool.gnu.cpp.compiler.exe.debug.169512391\=rebuildState\\\=false\\n\ncdt.managedbuild.toolchain.gnu.exe.debug.611721258\=rebuildState\\\=false\\n\ncdt.managedbuild.tool.gnu.archiver.base.1536409362\=rebuildState\\\=false\\n\ncdt.managedbuild.tool.gnu.cpp.linker.exe.debug.1777265935\=rebuildState\\\=false\\n\ncdt.managedbuild.tool.gnu.c.compiler.exe.debug.1012887003\=rebuildState\\\=false\\n\ncdt.managedbuild.tool.gnu.c.linker.exe.debug.2113312508\=rebuildState\\\=false\\n\ncdt.managedbuild.tool.gnu.assembler.exe.debug.1642423175\=rebuildState\\\=false\\n\ncdt.managedbuild.config.gnu.exe.debug.944074044\=rebuildState\\\=false\\nrcState\\\=0\\n\n
+/instance/org.eclipse.cdt.managedbuilder.core/properties/pointer\ call\ by\ referance\ swap.cdt.managedbuild.target.gnu.exe.1587928944/cdt.managedbuild.config.gnu.exe.release.323310931=cdt.managedbuild.tool.gnu.cpp.linker.exe.release.857834578\=rebuildState\\\=true\\n\ncdt.managedbuild.tool.gnu.assembler.exe.release.1499880597\=rebuildState\\\=true\\n\ncdt.managedbuild.toolchain.gnu.exe.release.683840277\=rebuildState\\\=true\\n\ncdt.managedbuild.tool.gnu.archiver.base.2067071842\=rebuildState\\\=true\\n\ncdt.managedbuild.tool.gnu.c.compiler.exe.release.1804587658\=rebuildState\\\=true\\n\ncdt.managedbuild.tool.gnu.c.linker.exe.release.1159061101\=rebuildState\\\=true\\n\ncdt.managedbuild.tool.gnu.cpp.compiler.exe.release.1312518967\=rebuildState\\\=true\\n\n
+/instance/org.eclipse.cdt.managedbuilder.core/properties/pointer_1.cdt.managedbuild.target.gnu.exe.1231431860/cdt.managedbuild.config.gnu.exe.debug.783825214=cdt.managedbuild.tool.gnu.archiver.base.1523429615\=rebuildState\\\=false\\n\ncdt.managedbuild.tool.gnu.c.linker.exe.debug.1550345732\=rebuildState\\\=false\\n\ncdt.managedbuild.tool.gnu.cpp.linker.exe.debug.309136838\=rebuildState\\\=false\\n\ncdt.managedbuild.config.gnu.exe.debug.783825214\=rebuildState\\\=false\\nrcState\\\=0\\n\ncdt.managedbuild.tool.gnu.c.compiler.exe.debug.3701148\=rebuildState\\\=false\\n\ncdt.managedbuild.tool.gnu.assembler.exe.debug.1900804859\=rebuildState\\\=false\\n\ncdt.managedbuild.toolchain.gnu.exe.debug.1788777960\=rebuildState\\\=false\\n\ncdt.managedbuild.tool.gnu.cpp.compiler.exe.debug.569279307\=rebuildState\\\=false\\n\n
+/instance/org.eclipse.cdt.managedbuilder.core/properties/pointer_1.cdt.managedbuild.target.gnu.exe.1231431860/cdt.managedbuild.config.gnu.exe.release.258150030=cdt.managedbuild.tool.gnu.c.linker.exe.release.413121090\=rebuildState\\\=true\\n\ncdt.managedbuild.tool.gnu.cpp.linker.exe.release.837008930\=rebuildState\\\=true\\n\ncdt.managedbuild.tool.gnu.archiver.base.1036866834\=rebuildState\\\=true\\n\ncdt.managedbuild.tool.gnu.c.compiler.exe.release.657542773\=rebuildState\\\=true\\n\ncdt.managedbuild.tool.gnu.assembler.exe.release.14864253\=rebuildState\\\=true\\n\ncdt.managedbuild.toolchain.gnu.exe.release.997829575\=rebuildState\\\=true\\n\ncdt.managedbuild.tool.gnu.cpp.compiler.exe.release.1328737249\=rebuildState\\\=true\\n\n
+/instance/org.eclipse.cdt.managedbuilder.core/properties/pointer_2.cdt.managedbuild.target.gnu.exe.1352616546/cdt.managedbuild.config.gnu.exe.debug.2128763291=cdt.managedbuild.toolchain.gnu.exe.debug.1709456634\=rebuildState\\\=false\\n\ncdt.managedbuild.tool.gnu.c.linker.exe.debug.1546117313\=rebuildState\\\=false\\n\ncdt.managedbuild.config.gnu.exe.debug.2128763291\=rebuildState\\\=false\\nrcState\\\=0\\n\ncdt.managedbuild.tool.gnu.cpp.compiler.exe.debug.1843519559\=rebuildState\\\=false\\n\ncdt.managedbuild.tool.gnu.archiver.base.1130161220\=rebuildState\\\=false\\n\ncdt.managedbuild.tool.gnu.assembler.exe.debug.365489899\=rebuildState\\\=false\\n\ncdt.managedbuild.tool.gnu.c.compiler.exe.debug.28458107\=rebuildState\\\=false\\n\ncdt.managedbuild.tool.gnu.cpp.linker.exe.debug.115819764\=rebuildState\\\=false\\n\n
+/instance/org.eclipse.cdt.managedbuilder.core/properties/pointer_2.cdt.managedbuild.target.gnu.exe.1352616546/cdt.managedbuild.config.gnu.exe.release.533019004=cdt.managedbuild.tool.gnu.cpp.compiler.exe.release.2044411461\=rebuildState\\\=true\\n\ncdt.managedbuild.tool.gnu.c.compiler.exe.release.536960869\=rebuildState\\\=true\\n\ncdt.managedbuild.tool.gnu.archiver.base.1112953535\=rebuildState\\\=true\\n\ncdt.managedbuild.tool.gnu.c.linker.exe.release.232569860\=rebuildState\\\=true\\n\ncdt.managedbuild.tool.gnu.assembler.exe.release.1805483498\=rebuildState\\\=true\\n\ncdt.managedbuild.tool.gnu.cpp.linker.exe.release.550326500\=rebuildState\\\=true\\n\ncdt.managedbuild.toolchain.gnu.exe.release.1321350154\=rebuildState\\\=true\\n\n
+/instance/org.eclipse.cdt.managedbuilder.core/properties/returnString.cdt.managedbuild.target.gnu.exe.237125797/cdt.managedbuild.config.gnu.exe.debug.1634167624=cdt.managedbuild.tool.gnu.cpp.linker.exe.debug.1979558358\=rebuildState\\\=false\\n\ncdt.managedbuild.toolchain.gnu.exe.debug.1996200138\=rebuildState\\\=false\\n\ncdt.managedbuild.tool.gnu.c.compiler.exe.debug.534552196\=rebuildState\\\=false\\n\ncdt.managedbuild.config.gnu.exe.debug.1634167624\=rebuildState\\\=false\\nrcState\\\=0\\n\ncdt.managedbuild.tool.gnu.cpp.compiler.exe.debug.1725713262\=rebuildState\\\=false\\n\ncdt.managedbuild.tool.gnu.assembler.exe.debug.1768025878\=rebuildState\\\=false\\n\ncdt.managedbuild.tool.gnu.archiver.base.1216821886\=rebuildState\\\=false\\n\ncdt.managedbuild.tool.gnu.c.linker.exe.debug.494993434\=rebuildState\\\=false\\n\n
+/instance/org.eclipse.cdt.managedbuilder.core/properties/returnString.cdt.managedbuild.target.gnu.exe.237125797/cdt.managedbuild.config.gnu.exe.release.1369384846=cdt.managedbuild.tool.gnu.assembler.exe.release.565053289\=rebuildState\\\=true\\n\ncdt.managedbuild.toolchain.gnu.exe.release.1982672300\=rebuildState\\\=true\\n\ncdt.managedbuild.tool.gnu.archiver.base.1757853516\=rebuildState\\\=true\\n\ncdt.managedbuild.tool.gnu.c.compiler.exe.release.842439875\=rebuildState\\\=true\\n\ncdt.managedbuild.tool.gnu.cpp.linker.exe.release.1155396900\=rebuildState\\\=true\\n\ncdt.managedbuild.tool.gnu.cpp.compiler.exe.release.1129509115\=rebuildState\\\=true\\n\ncdt.managedbuild.tool.gnu.c.linker.exe.release.1457648718\=rebuildState\\\=true\\n\n
+/instance/org.eclipse.cdt.managedbuilder.core/properties/test\ pointer.cdt.managedbuild.target.gnu.exe.1807183739/cdt.managedbuild.config.gnu.exe.debug.1291960570=cdt.managedbuild.tool.gnu.cpp.linker.exe.debug.1762102350\=rebuildState\\\=false\\n\ncdt.managedbuild.toolchain.gnu.exe.debug.181625754\=rebuildState\\\=false\\n\ncdt.managedbuild.tool.gnu.c.compiler.exe.debug.740173014\=rebuildState\\\=false\\n\ncdt.managedbuild.tool.gnu.c.linker.exe.debug.327648517\=rebuildState\\\=false\\n\ncdt.managedbuild.tool.gnu.assembler.exe.debug.1505419079\=rebuildState\\\=false\\n\ncdt.managedbuild.config.gnu.exe.debug.1291960570\=rebuildState\\\=false\\nrcState\\\=0\\n\ncdt.managedbuild.tool.gnu.archiver.base.1181374930\=rebuildState\\\=false\\n\ncdt.managedbuild.tool.gnu.cpp.compiler.exe.debug.734385151\=rebuildState\\\=false\\n\n
+/instance/org.eclipse.cdt.managedbuilder.core/properties/test\ pointer.cdt.managedbuild.target.gnu.exe.1807183739/cdt.managedbuild.config.gnu.exe.release.1712113369=cdt.managedbuild.tool.gnu.archiver.base.1039328024\=rebuildState\\\=true\\n\ncdt.managedbuild.tool.gnu.cpp.linker.exe.release.1353919789\=rebuildState\\\=true\\n\ncdt.managedbuild.tool.gnu.cpp.compiler.exe.release.835414401\=rebuildState\\\=true\\n\ncdt.managedbuild.tool.gnu.c.linker.exe.release.2048523992\=rebuildState\\\=true\\n\ncdt.managedbuild.tool.gnu.c.compiler.exe.release.344898447\=rebuildState\\\=true\\n\ncdt.managedbuild.toolchain.gnu.exe.release.434121802\=rebuildState\\\=true\\n\ncdt.managedbuild.tool.gnu.assembler.exe.release.1599045246\=rebuildState\\\=true\\n\n
+/instance/org.eclipse.cdt.ui/buildConsoleBackgroundColor=23,29,32
+/instance/org.eclipse.cdt.ui/buildConsoleInfoStreamColor=114,159,207
+/instance/org.eclipse.cdt.ui/buildConsoleOutputStreamColor=238,238,236
+/instance/org.eclipse.cdt.ui/buildConsoleProblemBackgroundColor=32,74,135
+/instance/org.eclipse.cdt.ui/buildConsoleProblemWarningBackgroundColor=85,87,83
+/instance/org.eclipse.cdt.ui/c_braces=211,215,207
+/instance/org.eclipse.cdt.ui/c_default=237,211,211
+/instance/org.eclipse.cdt.ui/c_keyword=78,154,6
+/instance/org.eclipse.cdt.ui/c_multi_line_comment_bold=true
+/instance/org.eclipse.cdt.ui/c_numbers=199,114,255
+/instance/org.eclipse.cdt.ui/c_operators=63,191,136
+/instance/org.eclipse.cdt.ui/c_single_line_comment_italic=true
+/instance/org.eclipse.cdt.ui/c_string=155,192,49
+/instance/org.eclipse.cdt.ui/c_type=233,185,110
+/instance/org.eclipse.cdt.ui/content_assist_parameters_background=52,101,164
+/instance/org.eclipse.cdt.ui/content_assist_proposals_background=233,185,110
+/instance/org.eclipse.cdt.ui/hoverModifierMasks=org.eclipse.cdt.ui.BestMatchHover;0;org.eclipse.cdt.debug.internal.ui.editors.DebugTextHover;0;org.eclipse.cdt.ui.ProblemHover;0;org.eclipse.cdt.ui.CDocHover;0;org.eclipse.cdt.ui.CMacroExpansionHover;0;org.eclipse.cdt.ui.CSourceHover;131072;org.eclipse.cdt.ui.AnnotationHover;0;
+/instance/org.eclipse.cdt.ui/hoverModifiers=org.eclipse.cdt.ui.BestMatchHover;0;org.eclipse.cdt.debug.internal.ui.editors.DebugTextHover;\!0;org.eclipse.cdt.ui.ProblemHover;\!0;org.eclipse.cdt.ui.CDocHover;\!0;org.eclipse.cdt.ui.CMacroExpansionHover;\!0;org.eclipse.cdt.ui.CSourceHover;Shift;org.eclipse.cdt.ui.AnnotationHover;\!0;
+/instance/org.eclipse.cdt.ui/inactiveCodeColor=52,101,164
+/instance/org.eclipse.cdt.ui/markOccurrences=false
+/instance/org.eclipse.cdt.ui/pp_default=238,238,236
+/instance/org.eclipse.cdt.ui/pp_directive=173,127,168
+/instance/org.eclipse.cdt.ui/pp_header=63,191,178
+/instance/org.eclipse.cdt.ui/semanticHighlighting.class.color=114,159,207
+/instance/org.eclipse.cdt.ui/semanticHighlighting.enum.color=136,138,133
+/instance/org.eclipse.cdt.ui/semanticHighlighting.enum.enabled=true
+/instance/org.eclipse.cdt.ui/semanticHighlighting.enumClass.color=252,175,62
+/instance/org.eclipse.cdt.ui/semanticHighlighting.enumerator.color=136,138,133
+/instance/org.eclipse.cdt.ui/semanticHighlighting.externalSDK.color=252,175,62
+/instance/org.eclipse.cdt.ui/semanticHighlighting.field.color=114,159,207
+/instance/org.eclipse.cdt.ui/semanticHighlighting.function.color=63,191,178
+/instance/org.eclipse.cdt.ui/semanticHighlighting.function.enabled=true
+/instance/org.eclipse.cdt.ui/semanticHighlighting.functionDeclaration.color=63,191,178
+/instance/org.eclipse.cdt.ui/semanticHighlighting.globalVariable.color=238,238,236
+/instance/org.eclipse.cdt.ui/semanticHighlighting.globalVariable.enabled=true
+/instance/org.eclipse.cdt.ui/semanticHighlighting.label.color=255,255,255
+/instance/org.eclipse.cdt.ui/semanticHighlighting.label.enabled=true
+/instance/org.eclipse.cdt.ui/semanticHighlighting.localVariable.color=193,125,17
+/instance/org.eclipse.cdt.ui/semanticHighlighting.localVariable.enabled=true
+/instance/org.eclipse.cdt.ui/semanticHighlighting.localVariableDeclaration.color=238,238,236
+/instance/org.eclipse.cdt.ui/semanticHighlighting.localVariableDeclaration.enabled=true
+/instance/org.eclipse.cdt.ui/semanticHighlighting.macroDefinition.color=238,238,236
+/instance/org.eclipse.cdt.ui/semanticHighlighting.macroDefinition.enabled=true
+/instance/org.eclipse.cdt.ui/semanticHighlighting.macroSubstitution.color=136,138,133
+/instance/org.eclipse.cdt.ui/semanticHighlighting.macroSubstitution.enabled=true
+/instance/org.eclipse.cdt.ui/semanticHighlighting.method.color=136,138,133
+/instance/org.eclipse.cdt.ui/semanticHighlighting.method.enabled=true
+/instance/org.eclipse.cdt.ui/semanticHighlighting.methodDeclaration.color=255,255,255
+/instance/org.eclipse.cdt.ui/semanticHighlighting.namespace.color=130,191,63
+/instance/org.eclipse.cdt.ui/semanticHighlighting.namespace.enabled=true
+/instance/org.eclipse.cdt.ui/semanticHighlighting.parameterVariable.color=255,255,255
+/instance/org.eclipse.cdt.ui/semanticHighlighting.parameterVariable.enabled=true
+/instance/org.eclipse.cdt.ui/semanticHighlighting.problem.enabled=true
+/instance/org.eclipse.cdt.ui/semanticHighlighting.staticField.color=224,67,233
+/instance/org.eclipse.cdt.ui/semanticHighlighting.staticMethod.color=238,238,236
+/instance/org.eclipse.cdt.ui/semanticHighlighting.templateParameter.color=215,135,71
+/instance/org.eclipse.cdt.ui/semanticHighlighting.typedef.color=115,210,22
+/instance/org.eclipse.cdt.ui/semanticHighlighting.udlSuffix.enabled=true
+/instance/org.eclipse.cdt.ui/sourceHoverBackgroundColor=0,0,0
+/instance/org.eclipse.cdt.ui/spelling_locale_initialized=true
+/instance/org.eclipse.cdt.ui/useAnnotationsPrefPage=true
+/instance/org.eclipse.cdt.ui/useQuickDiffPrefPage=true
+/instance/org.eclipse.core.resources/version=1
+/instance/org.eclipse.debug.core//org.eclipse.debug.core.PREFERRED_DELEGATES/org.eclipse.cdt.debug.gdbjtag.launchConfigurationType=org.eclipse.cdt.debug.gdbjtag.core.dsfLaunchDelegate,debug,;
+/instance/org.eclipse.debug.core//org.eclipse.debug.core.PREFERRED_DELEGATES/org.eclipse.cdt.launch.applicationLaunchType=org.eclipse.cdt.dsf.gdb.launch.localCLaunch,debug,;org.eclipse.cdt.cdi.launch.localCLaunch,run,;
+/instance/org.eclipse.debug.core//org.eclipse.debug.core.PREFERRED_DELEGATES/org.eclipse.cdt.launch.attachLaunchType=org.eclipse.cdt.dsf.gdb.launch.attachCLaunch,debug,;
+/instance/org.eclipse.debug.core//org.eclipse.debug.core.PREFERRED_DELEGATES/org.eclipse.cdt.launch.postmortemLaunchType=org.eclipse.cdt.dsf.gdb.launch.coreCLaunch,debug,;
+/instance/org.eclipse.debug.core//org.eclipse.debug.core.PREFERRED_DELEGATES/org.eclipse.cdt.launch.remoteApplicationLaunchType=org.eclipse.rse.remotecdt.dsf.debug,debug,;
+/instance/org.eclipse.debug.core/prefWatchExpressions=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?>\n<watchExpressions/>\n
+/instance/org.eclipse.debug.ui/Console.highWaterMark=88000
+/instance/org.eclipse.debug.ui/org.eclipse.debug.ui.MemoryView.orientation=0
+/instance/org.eclipse.debug.ui/org.eclipse.debug.ui.PREF_LAUNCH_PERSPECTIVES=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?>\n<launchPerspectives/>\n
+/instance/org.eclipse.debug.ui/org.eclipse.debug.ui.consoleBackground=23,29,32
+/instance/org.eclipse.debug.ui/org.eclipse.debug.ui.outColor=238,238,236
+/instance/org.eclipse.debug.ui/pref_state_memento.org.eclipse.debug.ui.DebugVieworg.eclipse.debug.ui.DebugView=<?xml version\="1.0" encoding\="UTF-8"?>\n<DebugViewMemento org.eclipse.debug.ui.BREADCRUMB_DROPDOWN_AUTO_EXPAND\="false"/>
+/instance/org.eclipse.debug.ui/preferredDetailPanes=DefaultDetailPane\:DefaultDetailPane|
+/instance/org.eclipse.debug.ui/preferredTargets=org.eclipse.cdt.debug.ui.toggleCBreakpointTarget,org.eclipse.cdt.debug.ui.toggleCDynamicPrintfTarget\:org.eclipse.cdt.debug.ui.toggleCBreakpointTarget|
+/instance/org.eclipse.e4.ui.css.swt.theme/themeid=org.eclipse.e4.ui.css.theme.e4_dark
+/instance/org.eclipse.e4.ui.workbench.renderers.swt/USE_ROUND_TABS=true
+/instance/org.eclipse.e4.ui.workbench.renderers.swt/enableMRU=true
+/instance/org.eclipse.e4.ui.workbench.renderers.swt/themeEnabled=false
+/instance/org.eclipse.jsch.core/CVSSSH2PreferencePage.PREF_KEX_METHODS=diffie-hellman-group1-sha1,diffie-hellman-group14-sha1,diffie-hellman-group-exchange-sha256,ecdh-sha2-nistp256,ecdh-sha2-nistp384,ecdh-sha2-nistp521
+/instance/org.eclipse.jsch.core/CVSSSH2PreferencePage.PREF_KEX_METHODS_ORDER=diffie-hellman-group1-sha1,diffie-hellman-group14-sha1,diffie-hellman-group-exchange-sha256,ecdh-sha2-nistp256,ecdh-sha2-nistp384,ecdh-sha2-nistp521
+/instance/org.eclipse.launchbar.core/LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/arch=x86_64
+/instance/org.eclipse.launchbar.core/LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/name=Local
+/instance/org.eclipse.launchbar.core/LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/os=linux
+/instance/org.eclipse.launchbar.core/configDescList=org.eclipse.launchbar.core.descriptorType.default\:Average,org.eclipse.launchbar.core.descriptorType.default\:String_return,org.eclipse.launchbar.core.descriptorType.default\:Char to ASCII,org.eclipse.launchbar.core.descriptorType.default\:math,org.eclipse.launchbar.core.descriptorType.default\:New_configuration,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:Pointer_test Debug,org.eclipse.launchbar.core.descriptorType.default\:test pointer,org.eclipse.launchbar.core.descriptorType.default\:pointer_1,org.eclipse.launchbar.core.descriptorType.default\:pointer_2,org.eclipse.launchbar.core.descriptorType.default\:pointer call by referance swap,org.eclipse.launchbar.core.descriptorType.default\:doubble pointer,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:Dangling Pointer,org.eclipse.launchbar.core.descriptorType.default\:Dangling Pointer (1)
+/instance/org.eclipse.launchbar.core/org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:Dangling\ Pointer/activeLaunchTarget=null\:---
+/instance/org.eclipse.launchbar.core/org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:Pointer_test\ Debug/activeLaunchTarget=null\:---
+/instance/org.eclipse.launchbar.core/org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:String_return\ Debug/activeLaunchTarget=null\:---
+/instance/org.eclipse.launchbar.core/org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:returnString\ Debug/activeLaunchTarget=null\:---
+/instance/org.eclipse.launchbar.core/org.eclipse.launchbar.core.descriptorType.default\:Average/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local
+/instance/org.eclipse.launchbar.core/org.eclipse.launchbar.core.descriptorType.default\:Dangling\ Pointer\ (1)/activeLaunchMode=run
+/instance/org.eclipse.launchbar.core/org.eclipse.launchbar.core.descriptorType.default\:Dangling\ Pointer\ (1)/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local
+/instance/org.eclipse.launchbar.core/org.eclipse.launchbar.core.descriptorType.default\:New_configuration/activeLaunchMode=run
+/instance/org.eclipse.launchbar.core/org.eclipse.launchbar.core.descriptorType.default\:New_configuration/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local
+/instance/org.eclipse.launchbar.core/org.eclipse.launchbar.core.descriptorType.default\:String_return/activeLaunchMode=run
+/instance/org.eclipse.launchbar.core/org.eclipse.launchbar.core.descriptorType.default\:String_return/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local
+/instance/org.eclipse.launchbar.core/org.eclipse.launchbar.core.descriptorType.default\:doubble\ pointer/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local
+/instance/org.eclipse.launchbar.core/org.eclipse.launchbar.core.descriptorType.default\:math/activeLaunchMode=run
+/instance/org.eclipse.launchbar.core/org.eclipse.launchbar.core.descriptorType.default\:math/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local
+/instance/org.eclipse.launchbar.core/org.eclipse.launchbar.core.descriptorType.default\:pointer\ call\ by\ referance\ swap/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local
+/instance/org.eclipse.launchbar.core/org.eclipse.launchbar.core.descriptorType.default\:test\ pointer/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local
+/instance/org.eclipse.team.ui/org.eclipse.team.ui.syncview_default_perspective=org.eclipse.team.ui.sync_view_perspective_none
+/instance/org.eclipse.tm.terminal.control/BACKGROUND=0,0,0
+/instance/org.eclipse.tm.terminal.control/FOREGROUND=229,229,229
+/instance/org.eclipse.ui.browser/browsers=<?xml version\="1.0" encoding\="UTF-8"?>\n<web-browsers current\="0">\n<system/>\n<external location\="/usr/bin/firefox" name\="Firefox"/>\n</web-browsers>
+/instance/org.eclipse.ui.editors/TextOccurrenceIndicationColor=114,159,207
+/instance/org.eclipse.ui.editors/currentLineColor=10,57,10
+/instance/org.eclipse.ui.ide/platformState=1659846399844
+/instance/org.eclipse.ui.ide/quickStart=false
+/instance/org.eclipse.ui.ide/tipsAndTricks=true
+/instance/org.eclipse.ui.navigator/org.eclipse.ui.navigator.ProjectExplorer.filterActivation=\:org.eclipse.ui.navigator.resources.filters.startsWithDot\:org.eclipse.cdt.ui.navigator.filters.AnonymousStructFilter\:org.eclipse.ui.navigator.resources.nested.HideTopLevelProjectIfNested\:org.eclipse.ui.navigator.resources.nested.HideFolderWhenProjectIsShownAsNested\:org.eclipse.cdt.ui.navigator.filters.ForwardDeclarationFilter\:
+/instance/org.eclipse.ui.workbench//org.eclipse.ui.commands/state/com.st.stm32cube.ide.mcu.buildanalyzer.showstate/org.eclipse.ui.commands.radioState=human
+/instance/org.eclipse.ui.workbench//org.eclipse.ui.commands/state/org.eclipse.ui.navigator.resources.nested.changeProjectPresentation/org.eclipse.ui.commands.radioState=false
+/instance/org.eclipse.ui.workbench/ColorsAndFontsPreferencePage.expandedCategories=Torg.eclipse.ui.workbenchMisc\tTorg.eclipse.cdt.ui.presentation\tTorg.eclipse.cdt.ui.CEditor.presentation\tTorg.eclipse.cdt.ui.COutline.presentation\tTorg.eclipse.debug.ui.presentation\tTterminal.views.theme.category\tTorg.eclipse.compare.contentmergeviewer.TextMergeViewer\tTorg.eclipse.ui.presentation.default
+/instance/org.eclipse.ui.workbench/ColorsAndFontsPreferencePage.selectedElement=Forg.eclipse.cdt.ui.editors.textfont
+/instance/org.eclipse.ui.workbench/ENABLED_DECORATORS=org.eclipse.ui.LinkedResourceDecorator\:true,org.eclipse.ui.SymlinkDecorator\:true,org.eclipse.ui.VirtualResourceDecorator\:true,org.eclipse.ui.ContentTypeDecorator\:true,org.eclipse.ui.ResourceFilterDecorator\:false,com.st.stm32cube.common.mx.core.iocdecorator\:true,org.eclipse.cdt.ui.indexedFiles\:false,org.eclipse.cdt.managedbuilder.ui.excludedFile\:true,org.eclipse.cdt.managedbuilder.ui.includeFolder\:true,org.eclipse.cdt.internal.ui.CustomBuildSettingsDecorator\:true,org.eclipse.debug.ui.prototype.decorator\:true,com.st.stm32cube.ide.mcu.ide.ui.decorators.hierarchicalprojecttreedecorator\:true,
+/instance/org.eclipse.ui.workbench/UIActivities.org.eclipse.cdt.debug.dsfgdbActivity=true
+/instance/org.eclipse.ui.workbench/org.eclipse.cdt.debug.ui.ModulesDetailPaneFont=1|Monospace|12.0|0|GTK|1|;
+/instance/org.eclipse.ui.workbench/org.eclipse.cdt.internal.ui.compare.AsmMergeViewer=1|Monospace|16.0|0|GTK|1|;
+/instance/org.eclipse.ui.workbench/org.eclipse.cdt.internal.ui.compare.CMergeViewer=1|Monospace|16.0|0|GTK|1|;
+/instance/org.eclipse.ui.workbench/org.eclipse.cdt.make.internal.ui.compare.MakefileMergeViewer=1|Monospace|12.0|0|GTK|1|;
+/instance/org.eclipse.ui.workbench/org.eclipse.cdt.ui.buildconsole.ConsoleFont=1|Monospace|12.0|0|GTK|1|;
+/instance/org.eclipse.ui.workbench/org.eclipse.cdt.ui.editors.textfont=1|Monospace|16.0|0|GTK|1|;
+/instance/org.eclipse.ui.workbench/org.eclipse.compare.contentmergeviewer.TextMergeViewer=1|Monospace|12.0|0|GTK|1|;
+/instance/org.eclipse.ui.workbench/org.eclipse.debug.ui.DetailPaneFont=1|Monospace|12.0|0|GTK|1|;
+/instance/org.eclipse.ui.workbench/org.eclipse.debug.ui.MemoryViewTableFont=1|Monospace|12.0|0|GTK|1|;
+/instance/org.eclipse.ui.workbench/org.eclipse.debug.ui.consoleFont=1|Monospace|12.0|0|GTK|1|;
+/instance/org.eclipse.ui.workbench/org.eclipse.jface.textfont=1|Monospace|12.0|0|GTK|1|;
+/instance/org.eclipse.ui.workbench/org.eclipse.ui.ide.systemDefault.org.eclipse.ui.workbench.ACTIVE_NOFOCUS_TAB_BG_END=255,255,255
+/instance/org.eclipse.ui.workbench/org.eclipse.ui.ide.systemDefault.org.eclipse.ui.workbench.ACTIVE_NOFOCUS_TAB_BG_START=255,255,255
+/instance/org.eclipse.ui.workbench/org.eclipse.ui.ide.systemDefault.org.eclipse.ui.workbench.ACTIVE_NOFOCUS_TAB_TEXT_COLOR=16,16,16
+/instance/org.eclipse.ui.workbench/org.eclipse.ui.ide.systemDefault.org.eclipse.ui.workbench.ACTIVE_TAB_BG_END=255,255,255
+/instance/org.eclipse.ui.workbench/org.eclipse.ui.ide.systemDefault.org.eclipse.ui.workbench.ACTIVE_TAB_BG_START=255,255,255
+/instance/org.eclipse.ui.workbench/org.eclipse.ui.ide.systemDefault.org.eclipse.ui.workbench.ACTIVE_TAB_TEXT_COLOR=189,230,251
+/instance/org.eclipse.ui.workbench/org.eclipse.ui.ide.systemDefault.org.eclipse.ui.workbench.INACTIVE_TAB_BG_END=246,245,244
+/instance/org.eclipse.ui.workbench/org.eclipse.ui.ide.systemDefault.org.eclipse.ui.workbench.INACTIVE_TAB_BG_START=246,245,244
+/instance/org.eclipse.ui.workbench/org.eclipse.ui.r30.HYPERLINK_COLOR=114,159,207
+/instance/org.eclipse.ui.workbench/org.eclipse.ui.r30.org.eclipse.cdt.internal.ui.compare.AsmMergeViewer=1|Monospace|14.0|0|GTK|1|;
+/instance/org.eclipse.ui.workbench/org.eclipse.ui.r30.org.eclipse.cdt.internal.ui.compare.CMergeViewer=1|Monospace|14.0|0|GTK|1|;
+/instance/org.eclipse.ui.workbench/org.eclipse.ui.r30.org.eclipse.cdt.ui.ColoredLabels.writeaccess_highlight=136,138,133
+/instance/org.eclipse.ui.workbench/org.eclipse.ui.r30.org.eclipse.cdt.ui.editors.textfont=1|Monospace|14.0|0|GTK|1|;
+/instance/org.eclipse.ui.workbench/org.eclipse.ui.r30.org.eclipse.cdt.ui.outline.mark.dividercolor=114,159,207
+/instance/org.eclipse.ui.workbench/org.eclipse.ui.r30.org.eclipse.ui.showkeys.foregroundColor=114,159,207
+/instance/org.eclipse.ui.workbench/org.eclipse.ui.r30.org.eclipse.ui.workbench.ACTIVE_TAB_BG_START=120,124,126
+/instance/org.eclipse.ui.workbench/org.eclipse.ui.r30.org.eclipse.ui.workbench.ACTIVE_TAB_INNER_KEYLINE_COLOR=75,76,79
+/instance/org.eclipse.ui.workbench/org.eclipse.ui.r30.org.eclipse.ui.workbench.ACTIVE_TAB_OUTER_KEYLINE_COLOR=75,76,79
+/instance/org.eclipse.ui.workbench/org.eclipse.ui.r30.org.eclipse.ui.workbench.ACTIVE_TAB_OUTLINE_COLOR=75,76,79
+/instance/org.eclipse.ui.workbench/org.eclipse.ui.r30.org.eclipse.ui.workbench.ACTIVE_UNSELECTED_TABS_COLOR_END=64,64,67
+/instance/org.eclipse.ui.workbench/org.eclipse.ui.r30.org.eclipse.ui.workbench.ACTIVE_UNSELECTED_TABS_COLOR_START=73,74,77
+/instance/org.eclipse.ui.workbench/org.eclipse.ui.r30.org.eclipse.ui.workbench.INACTIVE_TAB_INNER_KEYLINE_COLOR=81,86,88
+/instance/org.eclipse.ui.workbench/org.eclipse.ui.r30.org.eclipse.ui.workbench.INACTIVE_TAB_OUTER_KEYLINE_COLOR=81,86,88
+/instance/org.eclipse.ui.workbench/org.eclipse.ui.r30.org.eclipse.ui.workbench.INACTIVE_TAB_OUTLINE_COLOR=59,64,66
+/instance/org.eclipse.ui.workbench/org.eclipse.ui.r30.org.eclipse.ui.workbench.INACTIVE_UNSELECTED_TABS_COLOR_END=70,70,73
+/instance/org.eclipse.ui.workbench/org.eclipse.ui.r30.org.eclipse.ui.workbench.INACTIVE_UNSELECTED_TABS_COLOR_START=81,86,88
+/instance/org.eclipse.ui.workbench/org.eclipse.ui.workbench.ACTIVE_NOFOCUS_TAB_BG_END=255,255,255
+/instance/org.eclipse.ui.workbench/org.eclipse.ui.workbench.ACTIVE_NOFOCUS_TAB_BG_START=255,255,255
+/instance/org.eclipse.ui.workbench/org.eclipse.ui.workbench.ACTIVE_NOFOCUS_TAB_TEXT_COLOR=16,16,16
+/instance/org.eclipse.ui.workbench/org.eclipse.ui.workbench.ACTIVE_TAB_BG_END=255,255,255
+/instance/org.eclipse.ui.workbench/org.eclipse.ui.workbench.ACTIVE_TAB_BG_START=255,255,255
+/instance/org.eclipse.ui.workbench/org.eclipse.ui.workbench.ACTIVE_TAB_TEXT_COLOR=189,230,251
+/instance/org.eclipse.ui.workbench/org.eclipse.ui.workbench.INACTIVE_TAB_BG_END=246,245,244
+/instance/org.eclipse.ui.workbench/org.eclipse.ui.workbench.INACTIVE_TAB_BG_START=246,245,244
+/instance/org.eclipse.ui.workbench/terminal.views.view.font.definition=1|Monospace|12.0|0|GTK|1|;
+/instance/org.eclipse.ui/CURRENT_THEME_ID=org.eclipse.ui.r30
+/instance/org.eclipse.ui/showIntro=false
+/instance/org.eclipse.urischeme/processedSchemes=,eclipse+command,eclipse+mpc
+@com.st.stm32cube.common.preferences=2.0.0.202105030704
+@com.st.stm32cube.ide.mcu.ide.oss=2.0.100.202205190750
+@org.eclipse.cdt.codan.core=4.1.100.202010121414
+@org.eclipse.cdt.core=7.4.101.202204191753
+@org.eclipse.cdt.debug.core=8.7.100.202110201027
+@org.eclipse.cdt.dsf.ui=2.6.401.202205130903
+@org.eclipse.cdt.managedbuilder.core=9.3.301.202205081303
+@org.eclipse.cdt.ui=7.3.201.202205131409
+@org.eclipse.core.resources=3.16.100.v20220214-1012
+@org.eclipse.debug.core=3.19.0.v20220125-2302
+@org.eclipse.debug.ui=3.16.0.v20220228-0706
+@org.eclipse.e4.ui.css.swt.theme=0.13.0.v20201026-1147
+@org.eclipse.e4.ui.workbench.renderers.swt=0.15.400.v20220308-0630
+@org.eclipse.jsch.core=1.3.900.v20200422-1935
+@org.eclipse.launchbar.core=2.4.200.202106071539
+@org.eclipse.team.ui=3.9.200.v20211130-1532
+@org.eclipse.tm.terminal.control=5.3.100.202202251626
+@org.eclipse.ui=3.201.0.v20220124-1108
+@org.eclipse.ui.browser=3.7.100.v20211105-1434
+@org.eclipse.ui.editors=3.14.300.v20210913-0815
+@org.eclipse.ui.ide=3.18.500.v20220215-1304
+@org.eclipse.ui.navigator=3.10.200.v20211009-1706
+@org.eclipse.ui.workbench=3.125.0.v20220308-0722
+@org.eclipse.urischeme=1.2.100.v20211001-1648
+file_export_version=3.0
